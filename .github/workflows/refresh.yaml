@@ -1,0 +1,35 @@
+name: Refresh output.json
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: 1.23.x
+
+      - name: Build
+        run: go get ...
+        run: go build
+
+      - name: Run
+        run: ./trmnl-coasttocoast
+
+      - name: Commit and push output.json
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add output.json
+          git commit -m "Automatic update: $(date -u '+%F %T UTC')" || exit 0  # Avoid failure if no changes
+          git push origin main
