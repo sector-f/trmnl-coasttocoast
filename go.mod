@@ -1,4 +1,4 @@
-module github.com/sector-f/c2c
+module github.com/sector-f/trmnl-coasttocoast
 
 go 1.23.4
 
