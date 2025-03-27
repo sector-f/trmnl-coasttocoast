@@ -30,12 +30,18 @@ type Show struct {
 }
 
 func main() {
+	log.Printf("Fetching %s\n", upcomingURL)
 	resp, err := http.Get(upcomingURL)
 	if err != nil {
 		log.Fatal(err)
 	}
 	defer resp.Body.Close()
 
+	if resp.StatusCode != http.StatusOK {
+		log.Fatalf("Received %v status\n", resp.Status)
+	}
+
+	log.Println("Parsing response as HTML")
 	doc, err := goquery.NewDocumentFromReader(resp.Body)
 	if err != nil {
 		log.Fatal(err)
