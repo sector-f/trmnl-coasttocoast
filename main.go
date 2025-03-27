@@ -2,9 +2,9 @@ package main
 
 import (
 	"encoding/json"
-	"fmt"
 	"log"
 	"net/http"
+	"os"
 	"strings"
 	"time"
 
@@ -75,5 +75,9 @@ func main() {
 		log.Fatal(err)
 	}
 
-	fmt.Println(string(output))
+	log.Println("Writing output file")
+	err = os.WriteFile("./output.json", output, 0o644)
+	if err != nil {
+		log.Fatal(err)
+	}
 }
