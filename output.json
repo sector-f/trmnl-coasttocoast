@@ -1,19 +1,66 @@
 {
     "shows": [
         {
-            "title": "Overpopulation \u0026 the Future / 'Doomsday Fish'",
-            "date": "2025-03-27",
-            "host": "George Noory",
-            "guests": "Frosty Wooldridge, Cheryll Jones",
-            "first_half": "First Half: Author, journalist, and teacher Frosty Wooldridge forecasts what we can expect in the future, and argues that overpopulation in the United States will become the single greatest issue facing Americans.",
-            "second_half": "Second Half: C2C's investigative reporter Cheryll Jones shares her interview with Professor Misty Paig-Tran from California State University Fullerton. She'll speak about the elusive deep-sea oarfish nicknamed the 'Doomsday Fish,' for its association with Japanese folklore surrounding earthquakes and tsunamis."
-        },
-        {
             "title": "Astrology Forecast / Open Lines",
             "date": "2025-03-28",
             "host": "Connie Willis",
             "guests": "William Stickevers, Open Lines",
             "first_half": "Financial astrologer William Stickevers will join guest host Connie Willis (info) to share his forecast on geopolitical developments, including UFOs, AI, and more in 2025. Followed by Open Lines in the latter half."
+        },
+        {
+            "title": "Ancient Mysteries \u0026 Egypt",
+            "date": "2025-03-29",
+            "host": "Rich Berra",
+            "guests": "Brad Olsen, William Henry",
+            "first_half": "In the first half, author, book publisher, and conference speaker Brad Olsen joins Rich Berra (email) for a discussion of his 'Esoteric' book series that delves into ancient mysteries and unseen realms. Followed by author, investigative mythologist, and art historian William Henry on ascension and the mysteries of ancient Egypt.",
+            "second_half": "6-10pm PT: Art Bell - Somewhere in Time returns to 2002 for a night of Open Lines, and researcher Colm Kelleher's report on UFOs."
+        },
+        {
+            "title": "Investigating Crop Circles / Energy Healing",
+            "date": "2025-03-30",
+            "host": "Richard Syrett",
+            "guests": "Patty Greer, Jake Cunningham",
+            "first_half": "First Half: Crop circle researcher Patty Greer joins Richard Syrett (Twitter) for a conversation about her years of investigating UK crop formations in the summer season when the plants grow tall and are laid down with intricate, mysterious patterns.",
+            "second_half": "Second Half: Wellness warrior and tech trailblazer Jake Cunningham will be discussing Big Pharma's dominance over healthcare, the deliberate censorship of energy-based healing technologies, and the powerful global awakening unfolding today."
+        },
+        {
+            "title": "Magical Realities / The Subconscious Mind",
+            "date": "2025-03-31",
+            "host": "George Noory",
+            "guests": "Mitch Horowitz, Erin Fall Haskell",
+            "first_half": "First Half: Historian and voice of cccultism Mitch Horowitz will bring us his research on magical realities, including the multiverse, quantum computing, retro causality, ESP, simulation theory, and black-hole theory.",
+            "second_half": "Second Half: Thought leader Dr. Erin Fall Haskell will discuss our subconscious mind and the role it plays in finding the soul's purpose."
+        },
+        {
+            "title": "Demographic Shifts / Sasquatch \u0026 the Supernatural",
+            "date": "2025-04-01",
+            "host": "George Noory",
+            "guests": "Kenneth Gronbach, Tobe Johnson",
+            "first_half": "First Half: Demographer and marketer Kenneth Gronbach will discuss how demographic shifts can make or break countries and continents.",
+            "second_half": "Second Half: Author, researcher, and producer Tobe Johnson will present his research on the link between Sasquatch \u0026 the supernatural."
+        },
+        {
+            "title": "Attack on Academia / Meat Industry Exposé",
+            "date": "2025-04-02",
+            "host": "George Noory",
+            "guests": "Peter Ward, Gail Eisnitz",
+            "first_half": "First Half: Professor of Biology and Earth \u0026 Space Sciences, Peter Ward will discuss what he deems to be a concerted attack on American universities.",
+            "second_half": "Second Half: Chief Investigator for the Humane Farming Association, Gail Eisnitz, will present her research and investigations into the meat industry."
+        },
+        {
+            "title": "Remote Viewing Predictions / Twin Souls",
+            "date": "2025-04-03",
+            "host": "George Noory",
+            "guests": "Major Ed Dames, Joanne DiMaggio",
+            "first_half": "First Half: Remote viewing teacher and retired US Army Major Ed Dames will bring us his latest work and predictions, and discuss his remote viewing training.",
+            "second_half": "Second Half: Joanne DiMaggio, MA, CHT, is a respected expert on the topic of reincarnation and soul writing. She'll share her latest work on soul mates and twin souls."
+        },
+        {
+            "title": "Dinosaur Fossils / Open Lines",
+            "date": "2025-04-04",
+            "host": "George Noory",
+            "guests": "Billy Doran, Open Lines",
+            "first_half": "Billy Doran is a former actor and photographer who is now a dinosaur hunter and the Executive Director of the Museum at Dinosaur Junction in Edwards, Colorado. He'll discuss dinosaur findings in Colorado, and share his passion for discovering fossils. Followed by Open Lines in the latter half."
         }
     ]
 }
