@@ -1,19 +1,65 @@
 {
     "shows": [
         {
-            "title": "UFO Disclosure / Dream Meanings",
-            "date": "2025-04-10",
-            "host": "George Noory",
-            "guests": "Daniel Sheehan, Patricia Eltinge",
-            "first_half": "First Half: Advocate, researcher, and ufologist Daniel Sheehan will discuss the latest in the field of UFOs, as well as update how close we are to full disclosure.",
-            "second_half": "Second Half: Author and dream analyst Patricia Eltinge will present her research on dreaming, how to capture your dreams, what dream symbols mean, and the importance of understanding the meaning of our dreams. She'll expand on the idea that the freedoms afforded to us in the dream realm are unrestrained by our usual, everyday societal constraints, allowing us to experience profound and sometimes scary truths."
-        },
-        {
             "title": "Improving Sleep / Open Lines",
             "date": "2025-04-11",
             "host": "Richard Syrett",
             "guests": "Pam Killeen, Open Lines",
             "first_half": "Health and wellness coach Pam Killeen joins Richard Syrett to discuss sleep habits and health strategies. Followed by Open Lines in the latter half."
+        },
+        {
+            "title": "Psychology of Luigi Mangione / JFK Files Release",
+            "date": "2025-04-12",
+            "host": "Richard Syrett",
+            "guests": "John C. Brady, Jim DiEugenio",
+            "first_half": "In the first half, forensic psychologist Dr. John Brady joins Richard Syrett to discuss the psychiatric aspects of Luigi Mangione, the accused killer of UnitedHealthcare CEO Brian Thompson. Dr. Brady goes into detail concerning Mangione’s vicarious connection to the famous Unabomber, Ted Kaczynski. In the second half, Jim DiEugenio, author of books on various assassinations, especially JFK, will be discussing the declassification of the latest JFK assassination documents.",
+            "second_half": "6-10pm PT: Art Bell - Somewhere in Time returns to 2/2/99 when private investigator Edmund Pankau revealed how anyone can hide their assets and disappear."
+        },
+        {
+            "title": "Mitchell-Hedges Crystal Skull / TBA",
+            "date": "2025-04-13",
+            "host": "Richard Syrett",
+            "guests": "Bill Homann, Catherine Lanigan",
+            "first_half": "Bill Homann joins Richard Syrett to delve into the discovery of the Mitchell-Hedges crystal skull. The legal guardian of the skull since 2007, Homann will reveal the importance of the unique artifact, and how its presence on the Earth comes at a pivotal time in humanity’s evolution. Novelist and angel expert Catherine Lanigan joins the conversation to discuss the crystal skull, as well as the angelic realm. 2nd half, TBA."
+        },
+        {
+            "title": "Undercover Operations / Witchcraft \u0026 Magick",
+            "date": "2025-04-14",
+            "host": "George Noory",
+            "guests": "Scott Payne, Phoenix LeFae",
+            "first_half": "First Half: Retired Special Agent Scott D. Payne recalls his 28 years in law enforcement (5 years at a Sheriff’s Office and 23 years in the FBI), the undercover operations he was on, including infiltrating a dangerous neo-Nazi group, and how some of his arrests led to rehabilitation. He'll also address crime in today’s world and what can be done about it.",
+            "second_half": "Second Half: Modern-day witch Phoenix LeFae will present her habits and rituals as a practicing witch and discuss Wicca, magick, and the connection between witchcraft, astrology, and Tarot."
+        },
+        {
+            "title": "Vagus Nerve \u0026 Healing / Near-Death Experiences",
+            "date": "2025-04-15",
+            "host": "George Noory",
+            "guests": "Dr. Kevin Tracey, Simon Brown",
+            "first_half": "First Half: Neurosurgeon Dr. Kevin Tracey will discuss his groundbreaking research on the vagus nerve which suggests that it's the body's most powerful yet underutilized healing pathway, waiting to be activated. He maintains that this remarkable nerve can reverse devastating illnesses without drugs.",
+            "second_half": "Second Half: Author and clinical hypnotherapist Simon Bown will share incredible near-death experiences, that challenge everything we think we know about consciousness and the afterlife. He'll present cases where individuals whose hearts had stopped and whose brains had flatlined saw things that were later verified."
+        },
+        {
+            "title": "Natural Remedies / Healing from Within",
+            "date": "2025-04-16",
+            "host": "George Noory",
+            "guests": "Benjamin Fuchs, Katie Beecher",
+            "first_half": "First Half: Pharmacist Ben Fuchs shares natural health remedies and the vitamins, nutrients, and minerals that our bodies need to maintain good health.",
+            "second_half": "Second Half: Licensed counselor and medical \u0026 emotional intuitive Katie Beecher will discuss her latest research and provide ways in which we can deal with anxiety, uncertainty, negativity, evil, and discord in our current climate."
+        },
+        {
+            "title": "World Events / Angels \u0026 Consciousness",
+            "date": "2025-04-17",
+            "host": "George Noory",
+            "guests": "G. Edward Griffin, Corin Grillo",
+            "first_half": "First Half: Writer and documentary film producer G. Edward Griffin (author of \"The Creature from Jekyll Island\" about the creation of the Federal Reserve) will bring us his view on the events that are shaping our world and how to navigate from day to day.",
+            "second_half": "Second Half: Psychotherapist, spiritual teacher, and channel Corin Grillo will enlighten us on the powerful role angels play in our current planetary awakening. She'll explain how they guide us, and show us they're not just helpers but initiators of consciousness."
+        },
+        {
+            "title": "TBA / Open Lines",
+            "date": "2025-04-18",
+            "host": "Rich Berra",
+            "guests": "Open Lines",
+            "first_half": "Guest host Rich Berra (email) speaks to guest(s) TBA. Followed by Open Lines in the latter half. "
         }
     ]
 }
