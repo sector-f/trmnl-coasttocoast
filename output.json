@@ -1,19 +1,65 @@
 {
     "shows": [
         {
-            "title": "Natalee Holloway Case / Dogman \u0026 Bigfoot",
-            "date": "2025-06-12",
-            "host": "George Noory",
-            "guests": "T. J. Ward, Joedy Cook",
-            "first_half": "First Half: 20 years ago, high school senior Natalee Holloway disappeared on a graduation trip to Aruba. Private Investigator T.J. Ward discusses the details of this famous case, as well as confessed killer Joran van der Sloot and whether he acted alone or not.",
-            "second_half": "Second Half: Retired Army Iraq War veteran and Dogman/cryptid researcher Joedy Cook brings us his latest work on sightings of Dogman and other cryptids. He'll discuss the behavior of Bigfoot and other creatures he's encountered, as well as a 1982 alleged massacre in Kentucky where a couple was found mauled in what is suspected to be the work of a beast."
-        },
-        {
             "title": "Friday the 13th Lore / Open Lines",
             "date": "2025-06-13",
             "host": "Rich Berra",
             "guests": "Mark Anthony, Open Lines",
             "first_half": "Mark Anthony, the \"psychic lawyer' joins Rich Berra (email) to explore how Friday the 13th isn't just superstition-- it’s a symbol of how fear, power, and paranoia have shaped our legal and cultural history. From the Templar arrests to the Salem witch trials, he’ll trace how this infamous date reflects deeper patterns of persecution and control. He’ll break down its influence on the U.S. Constitution, how superstition creeps into our laws, and why Friday the 13th still holds power over our collective psyche. Followed by Open Lines in the latter half."
+        },
+        {
+            "title": "UFO Revelations / Frequency Healing",
+            "date": "2025-06-14",
+            "host": "Rich Berra",
+            "guests": "Stephen Bassett, Ondre Seltzer",
+            "first_half": "In the first half, UFO activist Stephen Bassett joins Rich Berra (email) to dive into the biggest bombshells from this year’s Contact in the Desert conference — from new claims about alien contact to fresh government leaks. In the second half, healer and intuitive Ondre Seltzer explores the world of Frequency Energy Medicine, revealing how tuning our personal energy can unlock deep healing and transformation. Plus, he’ll offer live on-air frequency readings.",
+            "second_half": "6-10pm PT: Art Bell - Somewhere in Time returns to 2/12/01 when Colm Kelleher of NIDS spoke about the organization's research and study of fringe science and the paranormal."
+        },
+        {
+            "title": "PSI Abilities / Psychic Therapy",
+            "date": "2025-06-15",
+            "host": "Lisa Garr",
+            "guests": "Hakim Isler, Sondra Sneed",
+            "first_half": "First Half: Joining Lisa Garr (email), survivalist and author Hakim Isler talks about his Psi Games event, and its role in unlocking human potential. He'll also discuss wilderness and survival training, remote viewing, and mind sight, the integration of ancient wisdom with modern research, and the practical applications of psi abilities.",
+            "second_half": "Second Half: Psychic medium Sondra Sneed will share insights on how to communicate with God and reveal how her guidance has evolved into a transformative method of psychic therapy."
+        },
+        {
+            "title": "National Guard \u0026 Protests / Expeditions \u0026 Mysteries",
+            "date": "2025-06-16",
+            "host": "George Noory",
+            "guests": "Jonathan Emord, Josh Gates",
+            "first_half": "First Half: Author and constitutional lawyer Jonathan Emord will discuss the National Guard, the authority to call them in, and their role when it comes to keeping the peace. He'll also comment on the current protests taking place, ICE, and the deployment of Marines.",
+            "second_half": "Second Half: Explorer and archaeologist Josh Gates (star of the Discovery Channel’s \"Expedition Unknown\") will describe the many adventures and mysteries that he and his team have uncovered. His work includes such topics as Hitler’s long-range plane called the Amerikabomber and the man-eating lions of Tsavo."
+        },
+        {
+            "title": "TBA / Salem Witch Trials",
+            "date": "2025-06-17",
+            "host": "George Noory",
+            "guests": "Paul DeBole",
+            "first_half": "Professor Paul DeBole has a B.A. in History from Suffolk University and a J.D. from the New England School of Law. He'll discuss the Salem Witch trials and set the record straight on some important and widespread misconceptions, as well as talk about their legacy and how they may affect us today. First half, TBA."
+        },
+        {
+            "title": "Gambling Addiction / Remote Viewing \u0026 Aliens",
+            "date": "2025-06-18",
+            "host": "George Noory",
+            "guests": "Howard Riback, Uri Geller",
+            "first_half": "First Half: Gaming and gambling therapist Howard Riback will detail the pros \u0026 cons of the sometimes insidious world of gambling. He believes that more rules must be put in place to make this a safe pastime, and will share details of his own gambling intervention.",
+            "second_half": "Second Half: Author and mystifier Uri Geller will discuss the secrets of the powers of prediction, and delve into remote viewing, dowsing, spoon-bending, aliens among us, and more. Uri will also talk about his unique life."
+        },
+        {
+            "title": "Terrorism Threats / Near-Death Experiences",
+            "date": "2025-06-19",
+            "host": "George Noory",
+            "guests": "Jeffrey Simon, Dr. Eben Alexander",
+            "first_half": "First Half: Author Jeffrey Simon will discuss his 40-year career researching and writing about terrorism and the changes he has seen, and reveal what he sees as major threats we face today.",
+            "second_half": "Second Half: Former neurosurgeon Eben Alexander, MD, will tell the story of his near-death experience (NDE) and talk about how NDEs and scientific studies into related phenomena serve as evidence of a generalized consciousness independent of the brain. He believes these findings indicate a soul’s growth in understanding over more than one physical lifetime and how the binding force of love leads towards wholeness and healing."
+        },
+        {
+            "title": "What's in a Name? / Open Lines",
+            "date": "2025-06-20",
+            "host": "Connie Willis",
+            "guests": "Maryelizabeth Clark, Open Lines",
+            "first_half": "Maryelizabeth Clark loves names! She joins Connie Willis (info) to tell us how we can discover the meaning of our names, as well as their origin, historical significance, notable namesakes, popularity trends, geographical relevance, gender associations, and more. Followed by Open Lines in the latter half."
         }
     ]
 }
