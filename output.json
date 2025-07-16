@@ -1,19 +1,11 @@
 {
     "shows": [
         {
-            "title": "Ancient Biblical Research / Lucid Dreaming",
-            "date": "2025-07-15",
-            "host": "George Noory",
-            "guests": "Kenneth Hanson, Von Braschler",
-            "first_half": "First Half: Prof. Ken Hanson will present his latest research on the mystical fringe of ancient Judaism and discuss new AI-based dating of the Dead Sea Scrolls, which could rewrite biblical history, and will answer questions such as whether the ‘angels’ of Enoch were really extraterrestrial visitors.",
-            "second_half": "Second Half: Author and journalist Von Braschler has written more than a dozen books on consciousness development, time travel, dreams, and out-of-body projection. He'll delve into the many aspects of dreams, including their meanings, how they affect our lives, and how to program, map, and launch a lucid dream."
-        },
-        {
             "title": "Tech Advancements / Spiritual Warfare",
             "date": "2025-07-16",
             "host": "George Noory",
             "guests": "Charles Shults III, Arthur Anderson",
-            "first_half": "First Half: Author, writer, and researcher Charles Shults III will discuss technical advancements in neural input, repairing eyesight, expanded sensory input, and the ability to detect signs of life in unusual environments.",
+            "first_half": "First Half: Author and researcher Charles Shults III will discuss technical advancements in neural input, repairing eyesight, expanded sensory input, and the ability to detect signs of life in unusual environments.",
             "second_half": "Second Half: Director and writer Arthur A. Anderson speaks about the critical battle of spiritual warfare that he believes affects every aspect of our lives, from our mental and emotional health to our relationships and well-being. He'll draw from over a decade and a half of personal experience and research to explore how this invisible war is fought between the kingdom of God and the kingdom of Satan."
         },
         {
@@ -25,10 +17,11 @@
             "second_half": "Second Half: On July 19th, 2013, the movie The Conjuring was released. Andrea Perron is the eldest daughter of the Perron family whose experiences at their Rhode Island house inspired the film. She'll recall her family’s paranormal encounters, and the help they received from investigators Ed \u0026 Lorraine Warren."
         },
         {
-            "title": "Open Lines",
+            "title": "Influence of the Beatles / Open Lines",
             "date": "2025-07-18",
             "host": "Rich Berra",
-            "first_half": "Give guest host Rich Berra (email) a call and discuss whatever is on your mind! "
+            "guests": "Mark Brake, Open Lines",
+            "first_half": "Author Mark Brake joins guest host Rich Berra (email) to discuss how The Beatles rose from Liverpool’s working-class roots to become the most influential band in music history. He’ll dive into the cultural, technological, and artistic forces that shaped their sound-- and how their groundbreaking approach to songwriting, recording, and global fame changed popular music forever. From Beatlemania to studio innovation, Brake unpacks why their impact continues to resonate today. Followed by Open Lines. Give Rich a call and discuss whatever is on your mind! "
         }
     ]
 }
