@@ -1,19 +1,66 @@
 {
     "shows": [
         {
-            "title": "Public Health / The Alien Perspective",
-            "date": "2025-08-07",
-            "host": "George Noory",
-            "guests": "Dr. Tom Frieden, Dean Alioto",
-            "first_half": "First Half: Dr. Tom Frieden has served as Director of the CDC and as Commissioner of the NYC Health Department. He'll discuss ways to distinguish fact from fiction when it comes to health advice and explore public health programs that have saved millions of lives.",
-            "second_half": "Second Half: Filmmaker Dean Alioto will delve into the UFO phenomenon from the alien perspective. He'll portray this unique point-of-view and how he interacted with experts at NASA, France’s space program, and the Carl Sagan Institute. He'll also cover topics including non-human intelligence downloads to humans, and how these craft may actually be traveling in the astral plane."
-        },
-        {
             "title": "The Human Mind / Open Lines",
             "date": "2025-08-08",
             "host": "Lisa Garr",
             "guests": "Dr. Reef Karim, Open Lines",
             "first_half": "Scientist, healer, and entertainer Dr. Reef Karim believes our current culture is toxic to our own self-expression and to finding personal meaning in the world. He joins guest host Lisa Garr (email) to tell some funny stories, entertain us, and educate us on how the human mind works and why we all have a mad genius living inside of us, but for most people, that genius is in hibernation, stuck under a whole bunch of societal programming. Followed by Open Lines in the latter half. Give Lisa a call and discuss whatever is on your mind! "
+        },
+        {
+            "title": "NASA \u0026 Space / Remote Viewing \u0026 Hauntings",
+            "date": "2025-08-09",
+            "host": "Ryan Wrecker",
+            "guests": "David W. Brown, Margie Kay",
+            "first_half": "Journalist and space expert David W. Brown joins Ryan Wrecker (email) to talk about President Trump’s fascination with space, and what it could mean for NASA’s future. He’ll also dig into plans to build a nuclear site on the Moon. In the latter half, author Margie Kay will discuss her use of remote viewing to assess potentially haunted locations, often finding that spirits are aware of her presence. She'll also delve into the nature of the spirits, whether human or non-human.",
+            "second_half": "6-10pm PT: Art Bell - Somewhere in Time returns to 8/8/97 for a night of Open Lines featuring 'Men in Black' and 'Time Machine' hotlines."
+        },
+        {
+            "title": "Mars Anomalies / ESP Tales",
+            "date": "2025-08-10",
+            "host": "Richard Syrett",
+            "guests": "George J. Haas, Daniel Bourke",
+            "first_half": "First Half: Researcher George Haas joins Richard Syrett to take us on a journey to Mars to examine some of the planet’s most mysterious features and structures that may point to the existence of an ancient civilization. He'll show that many of these anomalies are like Earth’s own ancient geoglyphs.",
+            "second_half": "Second Half: Author Daniel Bourke explores just how common extrasensory experiences really are, across all cultures, eras, and walks of life. Drawing from accounts collected by parapsychologists and everyday people alike, he'll dive into phenomena such as crisis apparitions, shared dreams, and déjà vu."
+        },
+        {
+            "title": "Prophecy, AI, \u0026 the Supernatural / Alien Control System",
+            "date": "2025-08-11",
+            "host": "George Noory",
+            "guests": "Daniel Holdings, Thomas Jane",
+            "first_half": "First Half: Daniel Holdings is an Air Force vet, businessman, and author as well as a radio show commentator, podcaster, public speaker, and documentary film writer. He'll discuss the quantum connection between our physical world and the supernatural realm, as well as artificial intelligence, current events, and biblical prophecy.",
+            "second_half": "Second Half: Actor, director, and producer Thomas Jane will discuss the theories of Jacques Vallée and what an alien control system might look like here on Earth. He'll speculate on the possibility of a non-local alien information network, its limits, its powers, and its purpose."
+        },
+        {
+            "title": "Elvis Presley Revelations / Stonehenge Mysteries",
+            "date": "2025-08-12",
+            "host": "George Noory",
+            "guests": "Ivor Davis, Maria Wheatley",
+            "first_half": "First Half: August 16th, 2025, marks the 48th anniversary of the death of the 'King of Rock' n’ Roll,' Elvis Presley. Journalist Ivor Davis will discuss Elvis, his career, his performances, Graceland, and his lifestyle. He'll also talk about Elvis' relationship to the Mafia and Colonel Parker.",
+            "second_half": "Second Half: Maria Wheatley is a master dowser and researcher of ancient sites. She'll unravel the mysteries of Stonehenge and the healing power of the stones. She'll also discuss the lost civilization of the elongated skull people and reveal the secrets of the Templars and their use of ley lines."
+        },
+        {
+            "title": "Digital Identity / Bigfoot Lore",
+            "date": "2025-08-13",
+            "host": "George Noory",
+            "guests": "Bart Kosko, Michael Kozlowski",
+            "first_half": "First Half: USC Professor Bart Kosko will discuss digital identity as we approach the AI age of brain-chip implants and brain uploads, as well as the transition from brain tissue to digital processors. He believes digital privacy laws are too lax and will not prevent lawyers from subpoenaing digital memories and intentions.",
+            "second_half": "Second Half: Author, engineer, and singer Michael Kozlowski has written books in the horror fiction and paranormal investigation genres. He'll talk about possible origins of Bigfoot and evidence for its existence, and explain how the creature may be related to various legends and folklore."
+        },
+        {
+            "title": "Space News / Power of Aliveness",
+            "date": "2025-08-14",
+            "host": "George Noory",
+            "guests": "David Livingston, Kate Manser",
+            "first_half": "First Half: David Livingston is the founder and host of the Space Show, a live internet educational talk show program. He'll talk about the Artemis program and the state of the Lunar Landing mission. He'll also report on refueling in orbit, Starship testing, life support, and more.",
+            "second_half": "Second Half: Inspirational author Kate Manser has spent the past decade studying transcendence, meaning, and what makes us live and die happy. She'll discuss a hidden superpower of aliveness that humans possess, and what it means to be aware of being alive, and how we can tap into that feeling."
+        },
+        {
+            "title": "Jim Morrison, Mystic Visionary / Open Lines",
+            "date": "2025-08-15",
+            "host": "Richard Syrett",
+            "guests": "Paul Wyld, Open Lines",
+            "first_half": "Author Paul Wyld joins guest host Richard Syrett to reveal a different side of The Doors' late frontman, Jim Morrison, whom he characterizes as a mystical figure and shamanic visionary whose influence extended beyond rock music and into the heart of the Western esoteric tradition. Followed by Open Lines. Give Richard a call and discuss whatever is on your mind! "
         }
     ]
 }
