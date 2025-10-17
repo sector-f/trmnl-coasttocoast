@@ -1,19 +1,65 @@
 {
     "shows": [
         {
-            "title": "Hidden History / Evil Entities",
-            "date": "2025-10-16",
-            "host": "George Noory",
-            "guests": "Robert M. Schoch, Heidi Hollis",
-            "first_half": "First Half: Dr. Robert M. Schoch will discuss his latest work demonstrating that there was civilization prior to the end of the last Ice Age roughly 12,000 years ago. Dr. Schoch will also explain how he re-dated the origins of the Great Sphinx from circa 2,500 BC to thousands of years earlier, claiming the current head is likely a re-carving.",
-            "second_half": "Second Half: Author and researcher Heidi Hollis will examine the depths of evil, what it is, and where it hides. She'll explore the three realms where evil operates: within humanity, among demons, and by interdimensional entities often described as aliens."
-        },
-        {
             "title": "Investigating Bigfoot / Open Lines",
             "date": "2025-10-17",
             "host": "Connie Willis",
             "guests": "Thom Cantrall, Open Lines",
             "first_half": "Guest host Connie Willis (info) speaks with Bigfoot researcher Thom \"Cat\" Cantrall about his life investigating hairy cryptids. He'll also share a surprising story about an interplanetary journey. Followed by Open Lines in the latter half—give Connie a call and discuss whatever's on your mind!"
+        },
+        {
+            "title": "Roswell Incident on Trial / Spirit Communications",
+            "date": "2025-10-18",
+            "host": "Richard Syrett",
+            "guests": "Christopher Johnston, Deb Sheppard",
+            "first_half": "In the first half, personal injury trial lawyer Christopher Johnston joins Richard Syrett to discuss the 1947 Roswell Incident. He will present the format of a civil jury trial, allowing you to decide if the Roswell mystique holds up under questioning and if the reported events are supported by the evidence. Followed by psychic medium Deb Sheppard, who'll delve into her ability to communicate with the deceased, and her work on cold cases. She'll also provide on-air readings to listeners.",
+            "second_half": "6-10pm PT: Art Bell - Somewhere in Time returns to 1/6/99 when researcher Michael Thoreau discussed plant consciousness."
+        },
+        {
+            "title": "Martian Anomalies / Dreamwork \u0026 Ancestors",
+            "date": "2025-10-19",
+            "host": "Richard Syrett",
+            "guests": "George J. Haas, Linda Yael Schiller",
+            "first_half": "First Half: George J. Haas, the founder and investigator of the Cydonia Institute, joins Richard Syrett to discuss Martian anomalies, including a square-shaped structure observed within a large crater in the Arabia Terra region of the planet. He'll present the hypothesis of artificial design along with terrestrial comparisons.",
+            "second_half": "Second Half: Author and psychotherapist Linda Schiller will explain her methods of dreamwork and trauma treatment that help her guide people to connect with ancestors, to learn to recognize and honor ongoing connections, and identify inherited patterns that may cause pain."
+        },
+        {
+            "title": "Transforming Anxiety / Power of Herbs",
+            "date": "2025-10-20",
+            "host": "George Noory",
+            "guests": "David H. Rosmarin, Sara Chana",
+            "first_half": "First Half: Prof. David H. Rosmarin will talk about how anxiety, one of the most common and misunderstood human emotions, can actually be a source of strength. He will share a four-step process to transform anxiety into a tool for growth, and explain how we can partner with it to perform better, and live more fully. ",
+            "second_half": "Second Half: Sara Chana Silverstein is a master herbalist, homeopath, and author. Combining practical tips and ancient wisdom, she'll enlighten us on the power of herbs and roots, exploring how many herbs and root-rich foods can help us heal and strengthen our bodies in both hot and cold weather."
+        },
+        {
+            "title": "Natural Remedies / Occult Teachings",
+            "date": "2025-10-21",
+            "guests": "Benjamin Fuchs, Carl Abrahamsson",
+            "first_half": "First Half: Pharmacist Ben Fuchs will discuss natural health remedies and the vitamins, nutrients, and minerals that our bodies need to maintain good health.",
+            "second_half": "Second Half: Author Carl Abrahamsson will speak about various aspects of magic and the occult, including world teachings, noted magicians, and what it means to have magic in today's world. He'll especially focus on the actions and lives of noted satanist Anton LaVey and occultist Aleister Crowley."
+        },
+        {
+            "title": "Cosmology \u0026 the Mind / Halloween \u0026 Hoodoo",
+            "date": "2025-10-22",
+            "host": "George Noory",
+            "guests": "Brian Keating, Miss Aida",
+            "first_half": "First Half: UCSD Prof. Brian Keating will discuss how the universe and the human mind reveal their deepest secrets when we learn to focus. He'll share the mental frameworks that great scientists use to make sense of the cosmos, and research into the mysterious interstellar object known as 3I/ATLAS.",
+            "second_half": "Second Half: Miss Aida is an author, Hoodoo practitioner, and Conjure Woman. She'll delve into the Halloween holiday, its origins, spiritual significance, and the belief that during this time, the veil of the spiritual realm is thinned, allowing entities, both good and evil, to roam freely."
+        },
+        {
+            "title": "GMO Update / Vampire \u0026 Supernatural Artifacts",
+            "date": "2025-10-23",
+            "host": "George Noory",
+            "guests": "Jeffrey M. Smith, Edmondo Crimi",
+            "first_half": "First Half: Author and consumer advocate Jeffrey Smith will discuss genetically modified foods (GMOs) in relation to health. He'll report how Congress is considering giving liability protection to Monsanto/Bayer and other pesticide companies, and reveal the shocking ways that he believes Monsanto defrauded the government, science, and consumers.",
+            "second_half": "Second Half: Author and museum curator Edmondo Crimi will talk about how art has been influenced by the battle between good and evil, and explore his museum of vampire art and paranormal activity, a venue that stimulates learning and understanding of the supernatural."
+        },
+        {
+            "title": "Future of Technology / Open Lines",
+            "date": "2025-10-24",
+            "host": "Rich Berra",
+            "guests": "Kevin Cirilli, Open Lines",
+            "first_half": "Journalist Kevin Cirilli joins guest host Rich Berra (email) for a discussion on what it means for us to build a future that still feels human as we race to colonize Mars, deal with data becoming emotion, and handle the rise of AI that writes, learns, and dreams. Cirilli explores the intersection of space, technology, and consciousness, delving into the time when the story of our future shifts from being about machines to being about us. Followed by Open Lines in the latter half. Give Rich a call and discuss whatever is on your mind! "
         }
     ]
 }
