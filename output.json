@@ -1,19 +1,11 @@
 {
     "shows": [
         {
-            "title": "Secret Door Special",
-            "date": "2025-12-10",
-            "host": "George Noory",
-            "guests": "Ron Janix, Whitley Strieber, Susanne Wilson, Jim Harold",
-            "first_half": "Who's behind the Secret Door? George Noory welcomed four surprise guests, trying to identify each based solely on their disguised voices and the topics they discussed."
-        },
-        {
             "title": "Numerology for 2026 / Mental Techniques",
             "date": "2025-12-11",
             "host": "George Noory",
             "guests": "Glynis McCants, Jim Karol",
-            "first_half": "First Half: Numerologist Glynis McCants shares her numerological insights on what to expect in the new year 2026, and how to prepare for it. She'll delve into the significant shift about to take place, our Personal Year Cycles, and what's in store for some of the most influential world leaders.",
-            "second_half": "Second Half: Mentalist Jim Karol will discuss the power of the human mind and its infinite capabilities. He'll talk about his unique approach that combines cognitive fitness and mentalism, and demonstrate how anyone can enhance their mental strength, memory, and focus, using simple techniques."
+            "first_half": "Numerologist Glynis McCants shared her insights on what to expect in the upcoming year 2026. Followed by mentalist Jim Karol, who discussed the power of the human mind and its infinite capabilities."
         },
         {
             "title": "Alien Interactions / Open Lines",
@@ -21,6 +13,61 @@
             "host": "Connie Willis",
             "guests": "Zaysan \"Z\" Saldausky, Open Lines",
             "first_half": "Author of \"The Plejaren Diaries,\" Zaysan \"Z\" Saldausky (William Saldausky), best known as \"Z,\" joins guest host Connie Willis (info) to discuss his interactions and deepening relationship with a group of aliens. Followed by Open Lines in the latter half. Give Connie a call and talk about whatever is on your mind!"
+        },
+        {
+            "title": "Intuition \u0026 Energy Healing / Secret Geographic Patterns",
+            "date": "2025-12-13",
+            "host": "Richard Syrett",
+            "guests": "Julie Ryan, Gibson Berry",
+            "first_half": "In the first half, guest host Richard Syrett welcomes psychic medium Julie Ryan, who will discuss medical intuition, energy healing, past lives, angelic communication, and the spiritual logistics of what happens as we transition from this life to the next. In the second half, journalist Gib Berry will examine a verifiable, repeating geometric pattern found in mountain ranges, mines, and ancient sites around the world.",
+            "second_half": "6-10pm PT: Art Bell—Somewhere In Time returns to 1/29/02, when Mel Waters, from Mel's Hole fame, returned with an update on the bottomless hole on his property."
+        },
+        {
+            "title": "The Great Taking / America's Paranormal History",
+            "date": "2025-12-14",
+            "host": "Richard Syrett",
+            "guests": "Mel Mattison, Courtney McInvale",
+            "first_half": "First Half: Guest host Richard Syrett joins financial expert Mel Mattison to discuss the idea that global elites are planning to confiscate all financial assets. This plan is known as \"The Great Taking,\" and Mattison will explain how it's already incorporated in existing legal and financial structures.",
+            "second_half": "Second Half: Author and historian Courtney Mclnvale will share how she brings together American history and the supernatural. Her work blends rigorous historical research with firsthand accounts, folklore, and investigative fieldwork across diverse regions, from New England to the Deep South."
+        },
+        {
+            "title": "Martian Disclosure / Power of Plasma",
+            "date": "2025-12-15",
+            "host": "George Noory",
+            "guests": "Dr. John Brandenburg, Dana Kippel",
+            "first_half": "First Half: Theoretical plasma physicist John E. Brandenburg will discuss all things Mars, as well as the discovery of lightning on the planet. He'll talk about the urgent need for the government to hasten ET Disclosure, proposing that the process should focus on the Red Planet, where strong evidence of microbial life has apparently been found by NASA.",
+            "second_half": "Second Half: Author and filmmaker Dana Kippel will discuss the power of plasma, sharing her belief that this substance relates to intelligence, consciousness, and even a new potential for humanity."
+        },
+        {
+            "title": "Overflowing Abundance / Transformational Tarot",
+            "date": "2025-12-16",
+            "host": "George Noory",
+            "guests": "Barbara Wiseman, Janice King",
+            "first_half": "First Half: Barbara Wiseman, co-founder and president of The Earth Organization, will argue that freshwater is not a scarce resource on this planet. She'll explain how her non-profit's breakthrough technology makes it possible to access massive, long-hidden water resources coming up from deep within the Earth.",
+            "second_half": "Second Half: Author Janice King will discuss the Tarot deck and how she believes it's a coded message connecting us to each other and to the world of energy. King will explain how the cards can transform how we live in profound ways."
+        },
+        {
+            "title": "The Deep State \u0026 Spirituality / Crop Circle Mysteries",
+            "date": "2025-12-17",
+            "host": "George Noory",
+            "guests": "Jeff Grupp, Simeon Hein",
+            "first_half": "First Half: Jeff Grupp, the founder and lead chaplain of Kalamazoo Jail Ministry, will discuss the deep state, what makes it a system of oppression, and how relief comes through spirituality and trusting the source of all things.",
+            "second_half": "Second Half: Author and researcher Simeon Hein, PhD, will discuss the deep mystery of crop circles, not just as striking geometric impressions in the landscape, but as windows into a resonant process that seems to blend plasma physics, consciousness, and anomalous intelligence into a single phenomenon."
+        },
+        {
+            "title": "AI \u0026 Future Generations / Angelic Miracles",
+            "date": "2025-12-18",
+            "host": "George Noory",
+            "guests": "Adam Hardage, Trapper Jack",
+            "first_half": "First Half: Former CIA Operations Officer, Air Force Academy graduate, and combat veteran Adam Hardage will discuss how we can prepare the next generation for an AI future. He'll give us helpful information for guiding kids, ensuring they thrive rather than just survive.",
+            "second_half": "Second Half: This Christmas season, radio personality Trapper Jack will share stories of hope and miracles—real-life accounts of what appear to be angelic interventions and healings."
+        },
+        {
+            "title": "Rendlesham's 45th Anniversary / Open Lines",
+            "date": "2025-12-19",
+            "host": "Connie Willis",
+            "guests": "James Penniston, Open Lines",
+            "first_half": "Guest host Connie Willis (info) welcomes Sergeant James Penniston to discuss the Rendlesham Forest Incident's upcoming 45th anniversary. He'll describe his own alleged encounters with unknown crafts, unexplained lights, and alien visitors. Followed by Open Lines in the latter half—give Connie a call and share whatever's on your mind!"
         }
     ]
 }
