@@ -1,19 +1,11 @@
 {
     "shows": [
         {
-            "title": "Rod Serling's Legacy / Legends of Winter",
-            "date": "2025-12-22",
-            "host": "George Noory",
-            "guests": "Marc Zicree, Varla Ventura",
-            "first_half": "Producer and director Mark Scott Zicree explored the enduring legacy of Rod Serling and his iconic series, \"The Twilight Zone.\" Followed by author Varla Ventura, on the rich and often chilling intersection of Christmas traditions and folklore."
-        },
-        {
-            "title": "Natural Remedies / Exorcisms \u0026 Past Life Regressions",
+            "title": "Natural Remedies / The Practice of Exorcism",
             "date": "2025-12-23",
             "host": "George Noory",
             "guests": "Randi Shannon, Richard Jackson",
-            "first_half": "First Half: Dr. Randi Shannon will discuss the many ways we can use natural remedies to help with ailments in addition to using modern medicine. Dr. Shannon believes that supplementation and natural remedies are essential when it comes to everyday health.",
-            "second_half": "Second Half: Psychic and paranormal researcher Richard Jackson will talk about The Exorcist movie and discuss his training with Father Robert McKenna, a world-recognized exorcist. Jackson will also discuss the 37 years of work he has done in the spiritual and paranormal fields, and past life regressions."
+            "first_half": " Dr. Randi Shannon discussed the many ways we can use natural remedies to help with ailments. Followed by paranormal investigator Richard Jackson on  exorcisms and related phenomena."
         },
         {
             "title": "Ancient Holiday Traditions / Miracle Open Lines",
@@ -24,12 +16,12 @@
             "second_half": "Second Half: It's Miracle Open Lines! Give George a call on this magical night and talk about a miracle you've experienced."
         },
         {
-            "title": "Christmas Miracles / Cheryll Jones Investigates",
+            "title": "Christmas Miracles / Hidden History",
             "date": "2025-12-25",
             "host": "George Noory",
-            "guests": "Karen Kingsbury, Cheryll Jones",
-            "first_half": "First Half: Storyteller, filmmaker, and author Karen Kingsbury will discuss miracles and the holiday season. She'll show how at Christmastime we are more aware of miracles because we are more in tune with the sense of wonder that accompanies this magical time of year. Kingsbury will share several stories of miracles she researched for her latest book, reminding us that miracles still guide us today and let us know we are never alone.",
-            "second_half": "Second Half: Coast to Coast AM's investigative reporter Cheryll Jones will play her latest fascinating interview about strange and unexpected phenomena."
+            "guests": "Karen Kingsbury, Cheryll Jones, Frank Jacob",
+            "first_half": "First Half: Storyteller, filmmaker, and author Karen Kingsbury will discuss miracles and the holiday season. She'll show how at Christmastime we are more aware of miracles because we are more in tune with the sense of wonder that accompanies this magical time of year.",
+            "second_half": "Second Half: C2C's investigative reporter Cheryll Jones presents her interview with filmmaker and researcher Frank Jacob, who delves into the paranormal and mystical connections between the plasma matrix, electric universe, ancient cultures, hidden history, secret technology, and the 'true' connection to the mysterious 3I/ATLAS."
         },
         {
             "title": "Angelic Healing / Open Lines",
@@ -37,6 +29,21 @@
             "host": "Ryan Wrecker",
             "guests": "Susan Browne, Open Lines",
             "first_half": "Angel communicator Susan Browne will explain how working with angels and their realms raises one's vibration, transforms limiting patterns, and creates greater wellbeing, clarity, and flow. She'll share stories from her work as a healer and offer simple practices that listeners can use immediately to feel more supported and spiritually connected. Followed by Open Lines—give Ryan a call and discuss whatever's on your mind!"
+        },
+        {
+            "title": "Ancient Mysteries / Encounters with Monsters",
+            "date": "2025-12-27",
+            "host": "Ryan Wrecker",
+            "guests": "David Miano, Peter von Puttkamer",
+            "first_half": "Historian David Miano joins Ryan Wrecker (email) to discuss ancient civilizations and how historians and archaeologists investigate them. He'll detail his travels to some of the world's most extraordinary ancient sites and the puzzles and unanswered questions they contain. Followed by director Peter von Puttkamer, who'll share his monster tales, drawn from more than 35 years of global exploration and encounters with fierce wild creatures",
+            "second_half": "6-10pm PT: Art Bell - Somewhere in Time returns to 1/30/02 when journalist Eugene Linden shared his view of a future where instability rules the world."
+        },
+        {
+            "title": "UFO Roundtable: 2025 in Review",
+            "date": "2025-12-28",
+            "host": "George Knapp",
+            "guests": "Andy McGrillen, Jeremy Corbell, Joe Murgia, Danny Silva, Ryan Robbins",
+            "first_half": "Join George Knapp and his special guests for this end-of-the-year roundtable and UFO wrap-up as they discuss the events that have happened this year, the state of disclosure, and where ufology is headed in 2026 and beyond. In the first half, podcaster Andy McGrillen and filmmaker Jeremy Corbell will discuss the UFO landscape and why it has never been more exciting. Then, in the latter half, researchers Joe Murgia, Danny Silva, and Ryan Robbins will participate in a panel discussion."
         }
     ]
 }
