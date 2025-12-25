@@ -1,27 +1,18 @@
 {
     "shows": [
         {
-            "title": "Natural Remedies / The Practice of Exorcism",
-            "date": "2025-12-23",
-            "host": "George Noory",
-            "guests": "Randi Shannon, Richard Jackson",
-            "first_half": " Dr. Randi Shannon discussed the many ways we can use natural remedies to help with ailments. Followed by paranormal investigator Richard Jackson on  exorcisms and related phenomena."
-        },
-        {
-            "title": "Ancient Holiday Traditions / Miracle Open Lines",
+            "title": "Exploring Holiday Traditions / Miracle Open Lines",
             "date": "2025-12-24",
             "host": "George Noory",
             "guests": "Lionel Fanthorpe, Open Lines",
-            "first_half": "First Half: Ordained Anglican Priest Lionel Fanthorpe will regale us with Christmas stories, and he'll also discuss the ancient midwinter feasts observed for millennia before the Christian Christmas. Fanthorpe will include information on Saint Nicholas and the Bishop of Myra in Turkey, who gave gifts to the poor. He'll explain the verses in the song The Twelve Days of Christmas, and treat us to many more holiday traditions and mysteries.",
-            "second_half": "Second Half: It's Miracle Open Lines! Give George a call on this magical night and talk about a miracle you've experienced."
+            "first_half": "On our live Christmas Eve show, author and TV presenter Lionel Fanthorpe explored the rich and varied origins of Christmas traditions. Followed by 'miracle' Open Lines in the latter half."
         },
         {
-            "title": "Christmas Miracles / Hidden History",
+            "title": "Hidden History \u0026 Electric Universe",
             "date": "2025-12-25",
             "host": "George Noory",
-            "guests": "Karen Kingsbury, Cheryll Jones, Frank Jacob",
-            "first_half": "First Half: Storyteller, filmmaker, and author Karen Kingsbury will discuss miracles and the holiday season. She'll show how at Christmastime we are more aware of miracles because we are more in tune with the sense of wonder that accompanies this magical time of year.",
-            "second_half": "Second Half: C2C's investigative reporter Cheryll Jones presents her interview with filmmaker and researcher Frank Jacob, who delves into the paranormal and mystical connections between the plasma matrix, electric universe, ancient cultures, hidden history, secret technology, and the 'true' connection to the mysterious 3I/ATLAS."
+            "guests": "Cheryll Jones, Frank Jacob",
+            "first_half": "C2C's investigative reporter Cheryll Jones presents her interview with filmmaker and researcher Frank Jacob, who delves into the paranormal and mystical connections between the plasma matrix, electric universe, ancient cultures, hidden history, secret technology, and the 'true' connection to the mysterious 3I/ATLAS."
         },
         {
             "title": "Angelic Healing / Open Lines",
@@ -44,6 +35,44 @@
             "host": "George Knapp",
             "guests": "Andy McGrillen, Jeremy Corbell, Joe Murgia, Danny Silva, Ryan Robbins",
             "first_half": "Join George Knapp and his special guests for this end-of-the-year roundtable and UFO wrap-up as they discuss the events that have happened this year, the state of disclosure, and where ufology is headed in 2026 and beyond. In the first half, podcaster Andy McGrillen and filmmaker Jeremy Corbell will discuss the UFO landscape and why it has never been more exciting. Then, in the latter half, researchers Joe Murgia, Danny Silva, and Ryan Robbins will participate in a panel discussion."
+        },
+        {
+            "title": "Interstellar Objects / Spiritual Guidance",
+            "date": "2025-12-29",
+            "host": "George Noory",
+            "guests": "Avi Loeb, Roger Burnley",
+            "first_half": "First Half: Astrophysicist Avi Loeb discusses his research into mysterious interstellar objects such as 3I/ATLAS, and the Galileo Project, a scientific initiative searching for evidence of extraterrestrial technology.",
+            "second_half": "Second Half: Spiritual teacher and coach Roger Burnley, who has gleaned insights through channeling sessions with a collective consciousness known as Wilhlem, will offer guidance on how to be the best we can be in the coming year and beyond. He'll share his research and documented system for people to move beyond their limitations."
+        },
+        {
+            "title": "Planet X in 2026 / Niagara Hauntings",
+            "date": "2025-12-30",
+            "host": "George Noory",
+            "guests": "Marshall Masters, Peter Sacco",
+            "first_half": "First Half: Researcher and author Marshall Masters will bring us his research on Planet X, which he believes is a \"Nemesis\" mini-constellation in orbit around our sun. He'll describe its orbit and why he contends it will become the largest object in the sky in 2026. ",
+            "second_half": "Second Half: Author, producer, and director Peter Sacco will discuss his work in the paranormal field, and his Niagara’s Most Haunted film and Paranormal Profilers TV series. He'll delve into the many hauntings and poltergeists in the Niagara area, and his involvement as a former criminal psychology professor in a 1970 poltergeist case."
+        },
+        {
+            "title": "Psychic Insights for 2026",
+            "date": "2025-12-31",
+            "host": "George Noory",
+            "guests": "Erika Gabriel, James Van Praagh, Mark Nelson, Karyn Reece",
+            "first_half": "Join us on this New Year’s Eve special as four psychics and mediums share their insights and give us their takes and predictions on what 2026 has in store for humankind. In order of appearance: Erika Gabriel, James Van Praagh, Mark Christopher Nelson, and Karyn Reece."
+        },
+        {
+            "title": "AI: Issues \u0026 Innovations / Mindset for Success",
+            "date": "2026-01-01",
+            "host": "George Noory",
+            "guests": "Bart Kosko, Dr. Donna Marks",
+            "first_half": "First Half: Bart Kosko is a USC Professor of Electrical and Computer Engineering and an artificial intelligence researcher. He'll report on how some AI systems may fight back if you try to erase them, AI's growing legal problems and datacenter demands, and the latest on AI servants that search and learn on your behalf.",
+            "second_half": "Second Half: Licensed psychotherapist and addictions counselor Donna Marks will discuss ways we can improve our lives and establish the mindset needed to succeed. She'll also help us to keep our New Year’s resolutions and explain why some goals are more challenging than others."
+        },
+        {
+            "title": "UFO Investigations / Open Lines",
+            "date": "2026-01-02",
+            "host": "George Noory",
+            "guests": "Alejandro Rojas, Open Lines",
+            "first_half": "Alejandro Rojas, a consultant for Enigma Labs —the pioneering data, research, and community platform focused on Unidentified Anomalous Phenomena— joins George Noory to explore the future of UFO investigation. He’ll break down how the Enigma UFO reporting app is transforming public engagement, reveal compelling trends from the latest reports, and examine clusters of sightings, including those near nuclear facilities. Followed by Open Lines in the latter half. Give George a call and discuss whatever is on your mind!"
         }
     ]
 }
