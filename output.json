@@ -1,19 +1,11 @@
 {
     "shows": [
         {
-            "title": "Psychic Insights for 2026",
-            "date": "2025-12-31",
-            "host": "George Noory",
-            "guests": "Erika Gabriel, James Van Praagh, Mark Nelson, Karyn Reece",
-            "first_half": "On our New Year's Eve special, four psychics and mediums -- Erika Gabriel, James Van Praagh, Mark Christopher Nelson, and Karyn Reece shared their insights and offered predictions for 2026."
-        },
-        {
-            "title": "AI: Issues \u0026 Innovations / Mindset for Success",
+            "title": "AI: Issues \u0026 Innovations / Happiness \u0026 Addiction",
             "date": "2026-01-01",
             "host": "George Noory",
             "guests": "Bart Kosko, Dr. Donna Marks",
-            "first_half": "First Half: Bart Kosko is a USC Professor of Electrical and Computer Engineering and an artificial intelligence researcher. He'll report on how some AI systems may fight back if you try to erase them, AI's growing legal problems and datacenter demands, and the latest on AI servants that search and learn on your behalf.",
-            "second_half": "Second Half: Licensed psychotherapist and addictions counselor Donna Marks will discuss ways we can improve our lives and establish the mindset needed to succeed. She'll also help us to keep our New Year’s resolutions and explain why some goals are more challenging than others."
+            "first_half": "USC professor Bart Kosko spoke about the rapid evolution and societal impact of AI. Followed by therapist  Donna Marks on the nature of happiness, addiction, and personal growth."
         },
         {
             "title": "UFO Investigations / Open Lines",
@@ -37,6 +29,45 @@
             "guests": "David Blume, Jeffrey Seelman",
             "first_half": "First Half: Permaculture teacher and entrepreneur David Blume joins George Noory to discuss how ethanol can be used to fuel your car, make beverages, generate electricity, and make your own herbal medicines. He'll also address what he believes are signs of America running out of oil.",
             "second_half": "Second Half: Professional exorcist, clearing expert, and teacher Jeffrey Seelman will share his expertise on the different types of possessions that affect humans. He'll also delve into negative and demonic beings and their intentions toward humanity, as well as how spirits and aliens interact with people. "
+        },
+        {
+            "title": "UFO Disclosure \u0026 Biblical Prophecy / Bigfoot Research",
+            "date": "2026-01-05",
+            "host": "George Noory",
+            "guests": "L. A. Marzulli, Matt Moneymaker",
+            "first_half": "First Half: Author and filmmaker L.A. Marzulli lays out his research into what he calls the “rungs of the ladder” toward eventual UFO disclosure. He’ll explore how the modern UFO phenomenon may intersect with biblical prophecy and offer his analysis of the recent UFO congressional hearings.",
+            "second_half": "Second Half: Matt Moneymaker is the founder of the first organized network of Bigfoot field researchers. He'll discuss the evidence for Bigfoot’s existence, the creature's reported behaviors and traits, and the enduring mystery of how it continues to avoid capture."
+        },
+        {
+            "title": "Natural Remedies / Amelia Earhart Mystery",
+            "date": "2026-01-06",
+            "host": "George Noory",
+            "guests": "Benjamin Fuchs, Richard Martini",
+            "first_half": "First Half: Pharmacist Ben Fuchs will discuss the many ways we can use natural remedies to help with ailments and health issues as an adjunct to modern medicine. He believes that supplementation and remedies are essential for everyday health.",
+            "second_half": "Second Half: Filmmaker and author Rich Martini will delve into the Amelia Earhart mystery and his interview with the marine who had decoded a message saying they had found her plane. He'll report on the hangar at the airfield that housed three planes: two Japanese and one covered plane resembling her Lockheed Electra 10E. "
+        },
+        {
+            "title": "Protecting the Grid / Winged Humanoids \u0026 Cryptids",
+            "date": "2026-01-07",
+            "host": "George Noory",
+            "guests": "David Tice, Lon Strickler",
+            "first_half": "First Half: Executive producer David Tice joins us to break down the fragile state of America’s power grid and why a major outage is a pressing concern. He’ll outline the system's vulnerabilities and share practical steps to harden and insulate the grid.",
+            "second_half": "Second Half: Paranormal researcher and author Lon Strickler will discuss his study of winged humanoid and cryptid encounters across the US, including the ongoing Chicago Mothman phenomenon. He'll also explore Dogman and cryptid canine reports, cloaked 'Glimmer Man' entities, and how these sightings increasingly intersect with UFO activity and high strangeness."
+        },
+        {
+            "title": "Dreaming Techniques / Palmistry Insights",
+            "date": "2026-01-08",
+            "host": "George Noory",
+            "guests": "Sarah Janes, Vernon Mahabal",
+            "first_half": "First Half: Author and researcher Sarah Janes will discuss the art and skill of lucid dreaming, and the ancient history and culture of dreaming for healing. She'll explain the value of dreaming well, and why it’s worth cultivating.",
+            "second_half": "Second Half: Palmist Vernon Mahabal will forecast economic and social trends in the coming year. He'll share ways to become more aware of our spiritual nature while pursuing material responsibilities, as well as how we can connect to our inner intuitive powers through the agency of our own palms."
+        },
+        {
+            "title": "Cryptocurrency Forecast / Open Lines",
+            "date": "2026-01-09",
+            "host": "Connie Willis",
+            "guests": "Sean Worthington, Open Lines",
+            "first_half": "Author Sean Worthington joins guest host Connie Willis (info) to discuss the state of cryptocurrency, digital currencies, and where the space is headed in 2026. He'll also share Bitcoin predictions, how AI is shaping the financial future, and what it all means for everyday people. Followed by Open Lines in the latter half. Give Connie a call and discuss whatever is on your mind!"
         }
     ]
 }
