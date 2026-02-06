@@ -1,19 +1,11 @@
 {
     "shows": [
         {
-            "title": "Conspiracy Theories / Remote Viewing Insights",
-            "date": "2026-02-04",
-            "host": "George Noory",
-            "guests": "Douglas Cirignano, Lyn Buchanan",
-            "first_half": "Author Douglas Cirignano discussed conspiracy theories and government secrecy. Followed by remote viewer Lyn Buchanan on his invovlement in the U.S. military’s remote viewing unit, Project Stargate."
-        },
-        {
-            "title": "Sleep Paralysis \u0026 Nightmares / Animal Hauntings",
+            "title": "Sleep Paralysis \u0026 Nightmares / Pet Hauntings",
             "date": "2026-02-05",
             "host": "George Noory",
             "guests": "Ryan Hurd, Paul Koudounaris",
-            "first_half": "First Half: Prof. Ryan Hurd will discuss sleep paralysis and nightmares, and how these dream visitations may be hidden opportunities for contact with angels, ancestors, and non-human intelligence.",
-            "second_half": "Second Half: Paul Koudounaris, PhD, will explore animal hauntings-- a not uncommon type of haunting experience. He'll share stories of deceased pets returning to check on their owners and explain why animal hauntings have historically been rarely discussed, reported, or taken seriously."
+            "first_half": "Prof. Ryan Hurd discussed sleep paralysis, lucid dreams, and nightmares. Followed by author Paul Koudounaris on the phenomenon of animal ghosts, and the afterlife of pets."
         },
         {
             "title": "Spiritual Origins / Open Lines",
@@ -21,6 +13,61 @@
             "host": "Richard Syrett",
             "guests": "Katie Asher, Open Lines",
             "first_half": "Joining guest host Richard Syrett, writer, researcher, and mother Katie Asher shares her belief that we are more than biology and that everything material comes from the spiritual. She'll also discuss how to come to terms with good and evil and how we all have access to the miraculous. Followed by Open Lines in the latter half. Give Richard a call and discuss whatever is on your mind! "
+        },
+        {
+            "title": "The Beatles' Music / Communicating with Archangels",
+            "date": "2026-02-07",
+            "host": "Rich Berra",
+            "guests": "Mark Brake, Alisha Das",
+            "first_half": "February 7th, 1964, marks the date the Beatles first arrived in the U.S. Author Mark Brake joins guest host Rich Berra (email) to discuss the group’s music, popularity, and recording techniques. Followed by Dr. Alisha Das, a leader in spirituality and angelology who has guided thousands to awaken their inner divinity. She'll share techniques to connect with the highest archangels and how they serve as bridges to God.",
+            "second_half": "6-10pm PT: Art Bell - Somewhere in Time returns to 2/6/01 when theoretical physicist Michio Kaku spoke about the future of technology, and how computers will eventually be the size of dust particles."
+        },
+        {
+            "title": "Ancient UFO Sightings / AI \u0026 the Unknown",
+            "date": "2026-02-08",
+            "host": "Ryan Wrecker",
+            "guests": "Jason Martell, Ericka Boussarhane",
+            "first_half": "First Half: Joining Ryan Wrecker (email), researcher Jason Martell will discuss evidence linking modern-day UFOs to ancient sightings documented by early civilizations and religious texts. From the Sumerians and Egyptians to the Bible itself, there are numerous accounts of strange flying objects.",
+            "second_half": "Second Half: Psychic Ericka Boussarhane will delve into whether AI could be tapping into something beyond our current understanding, and if spirits might someday use technology as a form of communication. She'll also touch on unusual AI phenomena such as the recurring figure known as \"Loab,\" and what this might suggest about the unknown. "
+        },
+        {
+            "title": "Artemis II Mission / Dracula \u0026 Sherlock Holmes",
+            "date": "2026-02-09",
+            "host": "George Noory",
+            "guests": "Robert Zubrin, Leslie Klinger",
+            "first_half": "First Half: President of the Mars Society, Robert Zubrin, will address current challenges and opportunities in NASA’s space program and provide an update on the Artemis program. The good news: the Artemis II mission to orbit the Moon is ready for launch. The bad news: NASA currently lacks a lunar lander, making a Moon landing impossible at this stage.",
+            "second_half": "Second Half: Author Leslie S. Klinger is considered to be one of the world’s foremost authorities on Sherlock Holmes, Dracula, and vampires. He’ll share their stories and talk about how the 128-year-old novel Dracula still has us in its grip."
+        },
+        {
+            "title": "Ocean Conservation / ETs \u0026 Akashic Records",
+            "date": "2026-02-10",
+            "host": "George Noory",
+            "guests": "Captain Paul Watson, Debbie Solaris",
+            "first_half": "First Half: Capt. Paul Watson is the co-founder of the Greenpeace Foundation and the founder of the Sea Shepherd Conservation Society. He'll discuss ocean conservation, the state of our oceans, conservation efforts in Amazonia, climate change, and biocentrism.",
+            "second_half": "Second Half: ET contactee Debbie Solaris will reveal information from the Akashic Records that explores humanity’s possible interactions with non-human intelligences, how those interactions may be reflected in ancient history and unexplained phenomena, and what this perspective reveals about human consciousness and our evolving understanding of reality."
+        },
+        {
+            "title": "Beliefs About God / Tarot \u0026 Aleister Crowley",
+            "date": "2026-02-11",
+            "host": "George Noory",
+            "guests": "Micah Dank, Lon Milo DuQuette",
+            "first_half": "First Half: Author Micah Dank will explore the significance of God in contemporary society. He will examine the wide range of global beliefs and consider why religion continues to spark widespread interest.",
+            "second_half": "Second Half: Esoteric writer Lon Milo DuQuette will discuss his two latest works, \"The Tarot Architect\" and \"Young Aleister Crowley \u0026 The Magicians' Revolt.\" The first is a culmination of his 55-year relationship with Tarot, and the second is based on real historical characters from young Crowley’s life at the time of his tumultuous involvement with the magicians of the Hermetic Order of the Golden Dawn."
+        },
+        {
+            "title": "Psychic Detective / Curses \u0026 Demons",
+            "date": "2026-02-12",
+            "host": "George Noory",
+            "guests": "Pam Coronado, Raymond Scott",
+            "first_half": "First Half: Pam Coronado, a psychic detective, remote viewer, and spiritual teacher, has spent over twenty years assisting law enforcement, search teams, and families with missing-person investigations. She will recount her direct experiences in cases involving mysterious circumstances.",
+            "second_half": "Second Half: Ray Scott, a practitioner of metaphysics and mind science, will share his research and experience in removing demons, protecting against curses, and countering spirit invasions affecting individuals, businesses, and property. He’ll also address methods for healing the harm caused by these unwanted entities."
+        },
+        {
+            "title": "Healing from Trauma / Open Lines",
+            "date": "2026-02-13",
+            "host": "Connie Willis",
+            "guests": "Kameryn Rein Schwarz, Open Lines",
+            "first_half": "Joining guest host Connie Willis (info), former Chicago police officer Kameryn Rein Schwarz will speak about how she started the Center for Restorative Healing after witnessing countless traumatic deaths and humanity at its worst. She had reached her breaking point and will share her story and explain how her life was saved. Followed by Open Lines in the latter half. Give Connie a call and discuss whatever is on your mind! "
         }
     ]
 }
