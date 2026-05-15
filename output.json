@@ -1,19 +1,66 @@
 {
     "shows": [
         {
-            "title": "Alien Interactions / Mysteries of the Knights Templar",
-            "date": "2026-05-14",
-            "host": "George Noory",
-            "guests": "Neil deGrasse Tyson, Sarah Breskman Cosme",
-            "first_half": "First Half: Astrophysicist and author Neil deGrasse Tyson will discuss his new book, Take Me to Your Leader, which is a practical guide for dealing with alien visitors, an exploration of how it might happen, and a cultural history of our fascination with extraterrestrials.",
-            "second_half": "Second Half: Hypnotist and author Sarah Breskman Cosme will discuss the Knights Templar and the true nature of the treasure they were sworn to protect. She'll reveal why it may not be what history has led us to believe, and will explore hidden knowledge connected to ancient civilizations and sacred sites."
-        },
-        {
             "title": "Lake Worth Monster / Open Lines",
             "date": "2026-05-15",
             "host": "Richard Syrett",
             "guests": "Lyle Blackburn, Open Lines",
             "first_half": "Guest host Richard Syrett will speak with author, musician, and cryptid researcher Lyle Blackburn about the case of the Lake Worth Monster, an alleged bipedal beast with white hair and horns said to have attacked a couple near Fort Worth, Texas on the night of July 10, 1969. Blackburn will explore this terrifying cryptid case and offer new insights, startling facts, and talk about never-before published interviews, photos, and maps. Followed by Open Lines in the latter half—give Richard a call and discuss whatever's on your mind!"
+        },
+        {
+            "title": "Beach Boys / Covert Missions",
+            "date": "2026-05-16",
+            "host": "Richard Syrett",
+            "guests": "Al Jardine, Robert Plumlee, Ralph Pezzullo",
+            "first_half": "Musician Al Jardine, co-founder of the Beach Boys, joins Richard Syrett in the first hour to discuss his tour with members of Brian Wilson’s band, and his storied history with the Beach Boys. In the second hour, former CIA contract pilot Robert \"Tosh\" Plumlee recounts his covert aviation work, including his claimed presence in Dallas during the JFK assassination and contact with Lee Harvey Oswald. In hour 3, author Ralph Pezzullo explores his collaboration with Plumlee on covert operations, with the two taking calls in the final hour.",
+            "second_half": "6-10pm PT: Art Bell: Somewhere in Time returns to 2/19/97 when Jim Forbes of Strange Universe talked about space."
+        },
+        {
+            "title": "Mother Mary Encounters / Paranormal Apocalypse",
+            "date": "2026-05-17",
+            "host": "Richard Syrett",
+            "guests": "Margarita Mooney Clayton, Maxim Furek",
+            "first_half": "First Half: Professor Margarita Mooney Clayton, Ph.D., joins Richard Syrett to discuss why so many contemporary religious seekers are discovering Mother Mary’s spiritual protection and being led by her. She will talk about surprising and mystical encounters at sacred places such as Lourdes and Fatima, and share a story of being protected from evil spirits during a Vodou ceremony in Haiti.",
+            "second_half": "Second Half: Paranormal author Maxim W. Furek will delve into his research behind the meanings of \"apocalyptic awe\" and End Times, and how fear, religion, and the paranormal intersect, and what we need to do about it."
+        },
+        {
+            "title": "Global Perspectives / Psychological Resistance",
+            "date": "2026-05-18",
+            "host": "George Noory",
+            "guests": "G. Edward Griffin, David H. Rosmarin",
+            "first_half": "First Half: Author and filmmaker G. Edward Griffin shares his insights and perspectives on global power structures, economic control, and historical conflicts, as well as the events happening on the planet right now.",
+            "second_half": "Second Half: David H. Rosmarin, PhD, will discuss why anxiety and worry are universal parts of the human experience in an uncertain world. He’ll explain how building psychological resilience and learning to work with anxiety, rather than resisting it or chasing an anxiety-free life, can lead to greater emotional strength and well-being."
+        },
+        {
+            "title": "Challenging the Big Bang / Psychic Bloodlines",
+            "date": "2026-05-19",
+            "host": "George Noory",
+            "guests": "James McCanney, Susanne Wilson",
+            "first_half": "First Half: Professor James McCanney will discuss what he believes is one of the most significant scientific developments of the past 50 years: the collapse of Big Bang cosmology. He’ll present ten scientific discoveries that he argues challenge the foundational assumptions of the Big Bang theory.",
+            "second_half": "Second Half: Medium Susanne J. Wilson will explore the concept of psychic bloodlines, examining whether paranormal abilities such as clairvoyance and prophecy may be inherited across generations. She’ll also discuss reports of contact with departed humans and non-human intelligences."
+        },
+        {
+            "title": "Humanity's Purpose / Past Lives \u0026 Karma",
+            "date": "2026-05-20",
+            "host": "George Noory",
+            "guests": "Steven Machat, Holly Hall",
+            "first_half": "First Half: Music producer and metaphysical philosopher Steven Machat will explore humanity’s origins, purpose, and enduring existence. He’ll discuss concepts including the Creator, the Nephilim, humanity’s pursuit of knowledge and science, and the belief systems and guiding principles that shape our lives.",
+            "second_half": "Second Half: Therapist Holly Hall will present her research into reincarnation and past life regression, examining how past-life experiences may influence the present. She’ll also discuss the connections between astrology and karmic patterns, and the ways these forces may shape life as we know it."
+        },
+        {
+            "title": "Gobekli Tepe \u0026 Karahan Tepe / UFO Disclosure",
+            "date": "2026-05-21",
+            "host": "George Noory",
+            "guests": "Laird Scranton, Stephen Bassett",
+            "first_half": "First Half: Writer Laird Scranton will delve into the enigmatic Turkish archaeological sites of Göbekli Tepe and Karahan Tepe, which offer some of the earliest known evidence of organized civilization dating back roughly 11,000 years. He’ll explore what may have driven ancient hunter-gatherers to gather in this region and develop sophisticated megalithic stoneworking.",
+            "second_half": "Second Half: Stephen Bassett is a political activist pressing for formal disclosure of an extraterrestrial presence engaging the human race. He'll report on how the disclosure movement has picked up momentum, and will address the recently released government files."
+        },
+        {
+            "title": "Life of Jimmy Chagra / Open Lines",
+            "date": "2026-05-22",
+            "host": "Rich Berra",
+            "guests": "Jack Sheehan, Open Lines",
+            "first_half": "Writer Jack Sheehan joins guest host Rich Berra (email) to discuss the extraordinary life and criminal career of notorious marijuana smuggler Jimmy Chagra. Through persistence and a stroke of luck, Sheehan located Chagra living under an assumed identity in witness protection after he served 23 years in federal prison. Their conversation will explore Chagra’s rise in the drug trade, his legal battles, and the sensational case in which he was accused, but ultimately acquitted, of arranging the murder of Federal Judge John Wood. Followed by Open Lines. Give Rich a call and discuss whatever is on your mind! "
         }
     ]
 }
