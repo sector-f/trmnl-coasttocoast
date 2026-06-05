@@ -1,19 +1,66 @@
 {
     "shows": [
         {
-            "title": "RFK Assassination / Mediumship \u0026 Angels",
-            "date": "2026-06-04",
-            "host": "George Noory",
-            "guests": "Lisa Pease, Erika Gabriel",
-            "first_half": "First Half: On the anniversary of the assassination of Senator Robert F. Kennedy, researcher Lisa Pease will discuss her investigation into the RFK case. Drawing on LAPD and FBI records as well as recently released documents, she will examine evidence she believes challenges the official account and suggests a broader cover-up.",
-            "second_half": "Second Half: Spiritual medium Erika Gabriel will discuss her 18-year journey as a medium and how her abilities have evolved over time. She will talk about connecting with loved ones, angels, and spirit guides, and how these experiences can provide guidance, purpose, and a greater sense of well-being."
-        },
-        {
             "title": "Paranormal Experiences / Open Lines",
             "date": "2026-06-05",
             "host": "George Noory",
             "guests": "Varla Ventura, Open Lines",
             "first_half": "Author, traveler, and lover of the strange, Varla Ventura, will be discussing paranormal history, haunts, and the supernatural. She'll delve into such subjects as werewolves, banshees, fairies, Ouija experiences, and more. Followed by Open Lines in the latter half. Give George a call and discuss whatever is on your mind! "
+        },
+        {
+            "title": "Future of Space Travel / Spiritual Attacks \u0026 Exorcisms",
+            "date": "2026-06-06",
+            "host": "Lisa Garr",
+            "guests": "Eileen Collins, Bill Bean",
+            "first_half": "In the first half, guest host Lisa Garr (email) speaks with former astronaut and US Air Force Colonel Eileen M. Collins, the first female pilot and commander of a space shuttle. Collins will discuss her more than 872 hours in space as a veteran of four space flights, and she'll also give her thoughts on the future of space travel. In the second half, Reverend Bill Bean, known as the Spiritual Warrior, will share his experiences as an exorcist.",
+            "second_half": "6-10pm PT: Art Bell—Somewhere In Time returns to 2/22/01 when researcher Jose Escamilla delved into the mysterious aerial phenomenon called \"Rods.\""
+        },
+        {
+            "title": "Holy Virgin Blessings / Intelligent Design Evidence",
+            "date": "2026-06-07",
+            "host": "George Noory",
+            "guests": "Kevin Matthews, Geoffrey Simmons",
+            "first_half": "First Half: Radio personality and author Kevin Matthews will discuss how his life changed after he found a broken statue of The Virgin Mary. In the winter of 2011, he discovered this statue that would become the subject of two bestselling books, a movie release, and even a blessing from Pope Leo.",
+            "second_half": "Second Half: Author and lecturer Geoffrey Simmons will discuss various aspects of intelligent design and the debate surrounding Darwinian evolution. Simmons challenges the widespread acceptance of Darwin's theory. He argues that there is no evidence one organism can change into another."
+        },
+        {
+            "title": "Esoteric Secrets of Joy / Ufology \u0026 Disclosure",
+            "date": "2026-06-08",
+            "host": "George Noory",
+            "guests": "Mitch Horowitz, Daniel Sheehan",
+            "first_half": "First Half: Historian and lecturer Mitch Horowitz will explain what occult and esoteric traditions can teach us about how to lead happier, more independent lives. His life's award-winning work is deveoted to exploring the intersection of metaphysics, ethics, and self-transformation.",
+            "second_half": "Second Half: UFO advocate and researcher Danny Sheehan will discuss the latest in the field of ufology. He'll also share his thoughts on exactly how close we are to full disclosure, giving us his conclusions from the latest batch of files the government has released."
+        },
+        {
+            "title": "Death of Humanity / Ghosts \u0026 Memories",
+            "date": "2026-06-09",
+            "host": "George Noory",
+            "guests": "Gregg Braden, John Kachuba",
+            "first_half": "First Half: New York Times best-selling author Gregg Braden will talk about why scientists, engineers and philosophers alike warn us that without a radical shift in our thinking, we are on track to be the last generation of pure humans that the world will know.",
+            "second_half": "Second Half: Paranormal Investigator John Kachuba will discuss ghosts as the memories of history and will explore how apparitions and paranormal encounters connect to folklore, trauma, place-memory, historical tragedy, and the personal experiences of so many people through the ages."
+        },
+        {
+            "title": "Rising Gas Prices / Space Travel \u0026 Electronic Fog",
+            "date": "2026-06-10",
+            "host": "George Noory",
+            "guests": "David Blume, David Pares",
+            "first_half": "First Half: Consultant David Blume will reveal what's really going on with gasoline prices, giving us information not heard in the mainstream media. Blume will also explain how to make clean automotive and home-heating fuel for pennies on the dollar.",
+            "second_half": "Second Half: Scientist and author David Pares will discuss the evolution of the Variable Electro Magnetic Drive for space travel. Pares will also examine the facts of Bruce Gernons' famous December 4, 1970 flight through the Bermuda Triangle where he experienced what he called Electronic Fog."
+        },
+        {
+            "title": "Rediscovery of God / Finding Planet X",
+            "date": "2026-06-11",
+            "host": "George Noory",
+            "guests": "Stephen Meyer, Doug Elwell",
+            "first_half": "First Half: Dr. Stephen Meyer will discuss what he sees as the scientific rediscovery of God and provide evidence that points to a transcendent and intelligent creator. He'll specifically discuss developments in cosmology, physics, and biology that support evidence of intelligent design in nature.",
+            "second_half": "Second Half: Author Doug Elwell will explore ancient references to Planet X, which connect the work of Zechariah Sitchin with ancient Near-Eastern texts and modern science. He'll explain why he believes this mysterious planet is the harbinger of epic change."
+        },
+        {
+            "title": "Sci-Fi Films \u0026 Astrology / Open Lines",
+            "date": "2026-06-12",
+            "host": "Connie Willis",
+            "guests": "Mark Lerner, Open Lines",
+            "first_half": "Guest host Connie Willis (info) speaks with astrologer Mark Lerner about Steven Spielberg's film Disclosure Day, connecting sci-fi and high-tech movies with real space travel and early AI innovations. Lerner will also share information on the astrological forces shaping both our personal lives and the world at large, with a focus on what the current and upcoming planetary cycles reveal about humanity's next chapter. Followed by Open Lines in the latter half—give Connie a call and discuss whatever's on your mind!"
         }
     ]
 }
