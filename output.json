@@ -1,19 +1,65 @@
 {
     "shows": [
         {
-            "title": "Ancient UFOs / Messages from Spirit",
-            "date": "2026-07-02",
-            "host": "George Noory",
-            "guests": "Jason Martell, Kimberly Meredith",
-            "first_half": "First Half: Researcher Jason Martell explores evidence he believes links modern UFO sightings with accounts recorded by ancient civilizations and religious texts. Drawing from Sumerian and Egyptian traditions, as well as biblical narratives, he'll discuss reports of mysterious flying craft, advanced technologies, and encounters with beings.",
-            "second_half": "Second Half: Medical intuitive and medium Kimberly Meredith discusses soul frequencies, messages from the afterlife, and the importance of cultivating a relationship with spirit guides and angels. She'll also share her own contactee experience and how it shaped her spiritual path."
-        },
-        {
             "title": "Mysticism \u0026 Jim Morrison / Open Lines",
             "date": "2026-07-03",
             "host": "George Noory",
             "guests": "Paul Wyld, Open Lines",
             "first_half": "Today, July 3, marks the anniversary of the death of legendary singer, songwriter, and poet Jim Morrison, frontman of The Doors and a member of the infamous \"27 Club.\" Author Paul Wyld will explore the spiritual dimensions of Morrison's life, examining how his mysticism, creativity, and quest for transcendence shaped both his destiny and enduring legacy. He'll also discuss the profound influence Morrison continues to have on generations of artists, musicians, and seekers. Followed by Open Lives in the latter half. Give George a call and discuss whatever is on your mind!"
+        },
+        {
+            "title": "Life Extension / Spiritual Awakening",
+            "date": "2026-07-04",
+            "guests": "David Donnelly, Dr. Thomas Lewis, Austyn Wells",
+            "first_half": "First Half: Joining Lisa Garr (email), filmmaker David Donnelly, and psychiatrist Thomas Lewis will discuss living longer, age reversal, and whether science is truly closing in on the end of the aging process. They'll explore what separates extending our healthy years from just dreaming about living forever. Followed by spiritual medium and grief counselor Austyn Wells, who delves into spiritual awakenings, mediumship and grief healing. She'll address our cultural relationship with death, and the planetary shifts affecting us.",
+            "second_half": "6-10pm PT: Art Bell - Somewhere in Time returns to 3/1/2000, when author Albert Taylor spoke about out-of-body experiences."
+        },
+        {
+            "title": "Attachment Theory / Supernatural South",
+            "date": "2026-07-05",
+            "host": "George Noory",
+            "guests": "Thais Gibson, Sherry Malaver Parada",
+            "first_half": "First Half: Thais Gibson, PhD, founder of the Personal Development School, will speak about integrated attachment theory, a framework she has spent over a decade developing to help people reprogram the subconscious patterns that quietly shape their relationships. ",
+            "second_half": "Second Half: Author and MA Sherry Malaver Parada grew up in Arkansas, where she developed a fascination with the region's ghost stories, folklore, and cryptids. She'll share the rich supernatural traditions of the American South, exploring its haunted locations and the unexplained phenomena that continue to intrigue believers and skeptics alike."
+        },
+        {
+            "title": "Current Events / Astrological Cycles",
+            "date": "2026-07-06",
+            "host": "George Noory",
+            "guests": "Jerome Corsi, Leslie McGuirk",
+            "first_half": "First Half: Author Jerome Corsi examines the economic issues that touch everyday life, including rising gas and food prices, government policies, and financial uncertainty. He'll also analyze the ongoing conflict in the Middle East and discuss how its outcome could shape the geopolitical and economic future.",
+            "second_half": "Second Half: Astrologer Leslie McGuirk explores how astrology can offer fresh insight into our relationships, life's turning points, and the larger energetic currents influencing the world around us. She'll discuss Mercury signs and communication styles, relationship compatibility, intuition, and planetary cycles."
+        },
+        {
+            "title": "The Holy Experience / UFOs \u0026 Hollywood",
+            "date": "2026-07-07",
+            "host": "George Noory",
+            "guests": "Neale Donald Walsch, Bryce Zabel",
+            "first_half": "First Half: Neale Donald Walsch, author of 42 books on contemporary spirituality, joins us to discuss The Holy Experience. He'll explain what this transformative state is, how anyone can enter it, practical ways to access it in everyday life, and how to cultivate a lasting connection with it.",
+            "second_half": "Second Half: Writer and producer Bryce Zabel examines the enduring relationship between Hollywood and the UFO phenomenon,  as an ongoing story still unfolding. He'll explore whether the entertainment industry has helped shape, influence, or gradually reveal the truth about UFOs and share his perspective on where disclosure stands today."
+        },
+        {
+            "title": "Unidentified Submerged Objects / AI \u0026 Spirit Communication",
+            "date": "2026-07-08",
+            "host": "George Noory",
+            "guests": "Richard Dolan, Richard Martini",
+            "first_half": "First Half: Researcher Richard Dolan shares his analysis of the latest government UFO files and examines reports of unidentified objects operating beneath the oceans during the Cold War. He'll detail military and naval encounters, electromagnetic effects, and craft entering and leaving the water.",
+            "second_half": "Second Half: Author Richard Martini discusses his research on the surprising similarities between AI responses and those reported by people during guided meditation. The phenomenon, he says, is less about AI becoming conscious and more about large language models reflecting the ways humans access spirit guides or teachers on what he calls the \"Flipside.\""
+        },
+        {
+            "title": "EMP Dangers / Angels \u0026 Spirit Guides",
+            "date": "2026-07-09",
+            "host": "George Noory",
+            "guests": "William R. Forstchen, Michelle Clare",
+            "first_half": "First Half: Author Bill Forstchen discusses new developments since his 2009 book One Second After, which examined the devastating consequences of an electromagnetic pulse (EMP) attack on the US. He'll explore the nation's current preparedness, the potential threat posed by rogue nations, and the risks associated with solar flares.",
+            "second_half": "Second Half: Medium Michelle Clare draws on her near-death experiences and communications with angels, spirit guides, and departed loved ones to explore life's deeper purpose. She'll discuss relationships, challenges, and pivotal moments, explaining how these experiences can carry profound meaning."
+        },
+        {
+            "title": "Hollow Earth \u0026 Channeling / Open Lines ",
+            "date": "2026-07-10",
+            "host": "Connie Willis",
+            "guests": "Jim Edward Lucier, Open Lines",
+            "first_half": "Guest host Connie Willis (info) welcomes author Jim Edward Lucier, a channeler and experiencer who has studied most fields of the occult for over 40 years. He'll discuss the Hollow Earth, delve into his channeling techniques, and share the revelations he's uncovered. Followed by Open Lines in the latter half. Give Connie a call and discuss whatever is on your mind!"
         }
     ]
 }
