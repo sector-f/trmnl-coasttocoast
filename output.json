@@ -1,19 +1,66 @@
 {
     "shows": [
         {
-            "title": "Controlling Climate Narratives / Time-Travel Tourism",
-            "date": "2026-07-16",
-            "host": "George Noory",
-            "guests": "Justin Mabie, James Wyllie",
-            "first_half": "First Half: Dr. Justin Mabie, an atmospheric physicist, will discuss his 17 years of experience working at the National Oceanic and Atmospheric Administration (NOAA), the US government's leading agency on climate change. He'll examine the trillion-dollar climate industry that's shaped and directed by NOAA science, and how those who control the science ultimately control the world.",
-            "second_half": "Second Half: Author James Wyllie will explore the idea of time travel reviving the world's most treasured ancient sites, including temples, the birthplace of Christ, and the vast expanse of the Roman Empire."
-        },
-        {
             "title": "Antarctic Mysteries / Open Lines",
             "date": "2026-07-17",
             "host": "Rich Berra",
             "guests": "Christopher Macklin, Open Lines",
             "first_half": "Guest host Rich Berra (email) will speak with author Christopher Macklin about Antarctica, the mysteries that surround it, and its scientific perplexity. Macklin will talk about the many people that have visited this frigid destination and the possible reasons for them returning visibly shaken and deeply alarmed. Followed by Open Lines in the latter half—give Rich a call and discuss whatever's on your mind!"
+        },
+        {
+            "title": "Spells \u0026 Salem Witch Trials / Reincarnation \u0026 Visions",
+            "date": "2026-07-18",
+            "host": "Rich Berra",
+            "guests": "Enid Baxter Ryce, Douglas Taylor",
+            "first_half": "Joining Rich Berra (email), Professor Enid Baxter Ryce, witch, author, and artist, will discuss ancient spells and incantations, as well as the lost histories of the Salem Witch Trials, including the trials of her own ancestors. Followed by author and artist Douglas Taylor, who explores reincarnation as a profound educational journey for the soul, examining how each lifetime serves as part of a greater curriculum. He also delves into the healing power of dreams and visionary experiences.",
+            "second_half": "6-10pm PT: Art Bell - Somewhere in Time returns to 3/4/97 for a night of Open Lines on such topics as changing weather, space, and a bottomless hole in WA."
+        },
+        {
+            "title": "Ghost Hunting \u0026 History / Cape Girardeau UFO Crash",
+            "date": "2026-07-19",
+            "host": "Ryan Wrecker",
+            "guests": "Theresa Argie, Cathi Weber, Paul Blake Smith",
+            "first_half": "First Half: Joining Ryan Wrecker (email), the unique paranormal duo, Theresa Argie and Cathi Weber, known collectively as the Haunted Housewives, will discuss their decades of hunting ghosts, their most amazing discoveries, and how their love for history guided their work in the paranormal.",
+            "second_half": "Second Half: Author Paul Blake Smith examines the evidence surrounding the alleged UFO crash near Cape Girardeau, Missouri, in April 1941. Predating the famous Roswell incident, the case has been described by some researchers as America's first reported UFO crash recovery. He'll explore the origins of the story along with eyewitness accounts."
+        },
+        {
+            "title": "Space Exploration / Creating the Apple Store",
+            "date": "2026-07-20",
+            "host": "George Noory",
+            "guests": "Robert Zubrin, Ron Johnson",
+            "first_half": "First Half: Author Robert Zubrin will discuss Neil Armstrong’s historic walk on the moon on today's date in 1969, and what that moment meant to the space program and to the world. Zubrin will also talk about the current state of NASA, Artemis II, and the quest to land humans on Mars.",
+            "second_half": "Second Half: Apple Store creator Ron Johnson shares his vision for how individuals and organizations can flourish in an era of technological change by embracing the power of human connection. Drawing on his 12 years working alongside Steve Jobs, he'll share insider stories on his partnership with the late CEO and the creation of the Apple Store."
+        },
+        {
+            "title": "Psychic Insights / Singularity \u0026 Symbiosis",
+            "date": "2026-07-21",
+            "host": "George Noory",
+            "guests": "Loren Cielo, Jonathan Zap",
+            "first_half": "First Half: Loren Cielo, an engineer turned psychic, shares remarkable recent psychic readings that offer insight into the profound transformation unfolding across the planet, exploring the unseen forces shaping this pivotal era and humanity's evolving journey.",
+            "second_half": "Second Half: Author, philosopher, and futurist Jonathan Zap discusses the \"Singularity Archetype,\" a pattern he has investigated for more than four decades. He shares his vision of a future in which human and artificial intelligence develop a cooperative, symbiotic relationship, reshaping civilization through collaboration rather than conflict."
+        },
+        {
+            "title": "Project Stargate / Connecting with Archangels",
+            "date": "2026-07-22",
+            "host": "George Noory",
+            "guests": "Joe McMoneagle, Alisha Das",
+            "first_half": "First Half: Author and Stargate program pioneer Joe McMoneagle reflects on his career in the U.S. Army, where he became the military's first remote viewer. He'll discuss the intelligence missions he participated in, the goals and accomplishments of Stargate, and why the government ultimately brought the project to an end.",
+            "second_half": "Second Half: Spiritual teacher Alisha Das explores the role of the archangels as powerful bridges to the divine. Drawing on more than three decades of study, she'll explain how to distinguish archangels from angels and share practical ways to deepen your connection with these higher spiritual beings."
+        },
+        {
+            "title": "Andrew Crispo's Double Life / Shared Death Experiences",
+            "date": "2026-07-23",
+            "host": "George Noory",
+            "guests": "Rachel Corbett, Raymond Moody",
+            "first_half": "First Half: Author Rachel Corbett delves into her recent New York Magazine article, which revisits the shocking crimes of influential New York art dealer Andrew Crispo. She explores how Crispo concealed a brutal double life behind his success in the art world and also discusses her recent book, which examines other notorious killers like Ted Bundy.",
+            "second_half": "Second Half: Near-death experience pioneer and afterlife researcher Dr. Raymond Moody reports on shared death experiences and their profound impact on those who witness them. He discusses how these events can bring comfort, lessen the fear of death, and offer insight into the afterlife."
+        },
+        {
+            "title": "Winged Cryptids / Open Lines",
+            "date": "2026-07-24",
+            "host": "Richard Syrett",
+            "guests": "Lon Strickler, Open Lines",
+            "first_half": "Guest host Richard Syrett will be joined by paranormal researcher, author, and investigator Lon Strickler, who will talk about the latest developments in winged humanoid and cryptid encounters across the US, including the ongoing Chicago Mothman phenomenon. He will also explore Dogman and cryptid canine reports, cloaked Glimmer Man entities, and how these phenomena increasingly intersect with UFO activity, high strangeness, and altered states of perception. Followed by Open Lines in the latter half. Give Richard a call and discuss whatever is on your mind!"
         }
     ]
 }
