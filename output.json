@@ -1,27 +1,66 @@
 {
     "shows": [
         {
-            "title": "Alien Agenda \u0026 AI / Spirit Communication \u0026 Magick",
-            "date": "2026-08-12",
-            "host": "George Noory",
-            "guests": "Steve Quayle, Patti Negri",
-            "first_half": "First Half: Author Steve Quayle will discuss what he believes is the alien agenda, what the government knows, and the evidence he says points to information being withheld from the public. He'll also share his views on the rapid evolution of AI and why he believes it is growing beyond humanity's original intentions.",
-            "second_half": "Second Half: Psychic-medium and \"Good Witch\" Patti Negri will delve into spirit communication, haunted dolls, séances, and practical magick. She'll explain why she believes spirits may attach themselves to objects, how to recognize signs from the departed, and share techniques for protection and energy clearing."
-        },
-        {
-            "title": "Occult Elvis / Akashic Records Guidance",
-            "date": "2026-08-13",
-            "host": "George Noory",
-            "guests": "Miguel Conner, Amy Robeson",
-            "first_half": "First Half: With the anniversary of Elvis Presley's death approaching, writer and podcaster Miguel Conner will explore the life and legacy of the King of Rock and Roll, focusing on his lesser-known interests in mysticism and the occult. He'll also examine the circumstances surrounding Elvis's death and reports of alleged sightings and apparitions in the years since.",
-            "second_half": "Second Half: Akashic Records teacher Amy Robeson will discuss how the Akashic Records can serve as a practical spiritual resource for everyday life, offering guidance on relationships, life decisions, emotional healing, and the deeper lessons shaping a person's journey."
-        },
-        {
             "title": "Angels \u0026 Prayer / Open Lines",
             "date": "2026-08-14",
             "host": "Rich Berra",
             "guests": "Radleigh Valentine, Open Lines",
             "first_half": "Radleigh Valentine, an author and teacher whose work has inspired millions to deepen their connection with God, angels, and prayer, joins guest host, Rich Berra (email). Creator of numerous oracle and tarot decks, Valentine is known for his practical and accessible approach to spirituality. He'll discuss how angels may communicate through signs, intuition, synchronicities, and everyday experiences, and explain why he believes prayer is one of the most powerful tools for guidance, healing, and transformation. Followed by Open Lines in the latter half. Give Rich a call and talk about whatever is on your mind!"
+        },
+        {
+            "title": "Starseed Children / Atlantis \u0026 Lemuria",
+            "date": "2026-08-15",
+            "host": "Rich Berra",
+            "guests": "Jill M. Jackson, Frank Joseph Hoff",
+            "first_half": "Jill M. Jackson, a psychic and author, joins Rich Berra (email) to discuss heightened intuitive and spiritual abilities, how children develop these gifts, and why some of them are referred to as \"starseeds.\" Followed by researcher Frank Joseph Hoff, who delves into the legendary lost continents of Atlantis and Lemuria and how these mysterious continents became embedded in alternative history and popular culture.",
+            "second_half": "6-10pm PT: Art Bell - Somewhere in Time returns to 8/15/96, when author William Pierce talked about how his novel, \"The Turner Diaries,\" was said to have influenced domestic terrorist Timothy McVeigh."
+        },
+        {
+            "title": "Crime \u0026 Corruption / ET Contacts",
+            "date": "2026-08-16",
+            "host": "Ryan Wrecker",
+            "guests": "T.J. English, Lesley Mitchell-Clarke",
+            "first_half": "First Half: Former New York City taxi driver turned acclaimed chronicler of crime, corruption, and the American underworld, T.J. English, joins Ryan Wrecker (email) to explore the violent history of the Westies, the notorious Irish American gang that once controlled the Hell’s Kitchen neighborhood in Manhattan, along with other tales of crime.",
+            "second_half": "Second Half: Hypnotherapist Lesley Mitchell-Clarke will discuss the use of skilled hypnotherapeutic regression in working with individuals who believe that they have had extra/ultra-terrestrial contact or other experiences of high strangeness."
+        },
+        {
+            "title": "Demonology \u0026 Voodoo / Trauma \u0026 Suffering",
+            "date": "2026-08-17",
+            "host": "George Noory",
+            "guests": "Dr. Bruce Goldberg, RJ Spina",
+            "first_half": "First Half: Hypnotherapist Dr. Bruce Goldberg will discuss demonology and how demons are believed to select their victims. He'll also explore Voodoo and the research he says supports its reality, and explain how some people can act as energy vampires and how to protect yourself from them.",
+            "second_half": "Second Half: Metaphysical teacher RJ Spina will explore deeper truths about the nature of trauma and suffering and how to overcome them. He'll examine the limitations of traditional therapy and explain why many people are turning to psychedelics to address mental and emotional challenges. Spina will also delve into the issue of narcissism."
+        },
+        {
+            "title": "UFO Disclosure / Agrarian Magic \u0026 Folklore",
+            "date": "2026-08-18",
+            "host": "George Noory",
+            "guests": "Dean Alioto, Todd Elliott",
+            "first_half": "First Half: Filmmaker Dean Alioto will unpack the latest release of UFO information, examining the broader orchestration and messaging surrounding the government’s disclosures. He'll explore what may be behind the timing and presentation of this information and offer his perspectives on disclosure.",
+            "second_half": "Second Half: Todd Elliott is an organic farmer, magical practitioner, earth worker, and astrologer. Certified as an astrological magician by Renaissance Astrology, he'll discuss agrarian magic, mythology, and folklore, exploring the philosophy, traditions, and personal experiences behind these practices."
+        },
+        {
+            "title": "Near \u0026 Shared Death Experiences / Shadow Tarot",
+            "date": "2026-08-19",
+            "host": "George Noory",
+            "guests": "Scott Taylor, Maja D'Aoust",
+            "first_half": "First Half: Scott Taylor is President of the Expanded Awareness Institute, which helps people fascinated by near-death and shared-death experiences explore the meanings of these encounters. He'll reveal details of his own shared-death experience and what we can learn from near-death experiences (NDEs).",
+            "second_half": "Second Half: Maja D’Aoust, a practicing witch and scholar of alchemy, will discuss her Shadow Seer tarot deck, which draws on pagan shadow work to help reconnect us with hidden aspects. She'll also explore the use of Hermetic principles and the concept of opposing energies as they relate to the cards of the tarot."
+        },
+        {
+            "title": "Wisdom Within / Transplant Memories",
+            "date": "2026-08-20",
+            "host": "George Noory",
+            "guests": "Amba Gale, Ericka Boussarhane",
+            "first_half": "First Half: Transformational leadership coach and author Amba Gale explores what becomes possible when we learn to listen differently. She'll share how we can access the wisdom within ourselves during a time when so many people feel overwhelmed, divided, lonely, or disconnected.",
+            "second_half": "Second Half: Psychic Ericka Boussarhane delves into the profound connections between psychic abilities, intuition, and the concept of cellular memory. She'll discuss how her 2019 kidney transplant from a deceased donor influenced her mediumship, and share her perspectives on whether organ transplants might transfer memories or enhance psychic impressions."
+        },
+        {
+            "title": "Healing Encounters / Open Lines",
+            "date": "2026-08-21",
+            "host": "Ryan Wrecker",
+            "guests": "Chris Fleming, Open Lines",
+            "first_half": "Guest host Ryan Wrecker (email) welcomes artist, author, and paranormal investigator Chris Fleming, who recounts his battle with leukemia and how, during his chemotherapy treatments, he experienced a series of profound supernatural encounters that transformed his understanding of life, death, and what exists beyond. Fleming will share not only his encounters but also extraordinary true stories from people around the world, who have experienced divine guidance, healing, and miraculous intervention. Followed by Open Lines in the latter half. Give Ryan a call and discuss whatever is on your mind! "
         }
     ]
 }
