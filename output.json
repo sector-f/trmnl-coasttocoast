@@ -1,19 +1,66 @@
 {
     "shows": [
         {
-            "title": "Secret Societies / AI \u0026 Spirituality ",
-            "date": "2026-09-10",
-            "host": "George Noory",
-            "guests": "Isaac Weishaupt, Luke Lafitte",
-            "first_half": "First Half: Researcher Isaac Weishaupt explores the hidden meanings behind pop culture, conspiracies, and esoteric philosophy. He’ll discuss theories about secret societies and their alleged role in creating a New World Order, including claims involving the Illuminati, Freemasons, Skull \u0026 Bones, and occult gatherings at places such as Bohemian Grove.",
-            "second_half": "Second Half: Author Luke Lafitte looks at the spiritual side of AI and its connections to ancient Gnostic traditions, and the intersection of human consciousness and artificial intelligence. He'll also examine how science fiction shapes our attitudes toward emerging technology."
-        },
-        {
             "title": "9/11 Survivor / Open Lines",
             "date": "2026-09-11",
             "host": "Connie Willis",
             "guests": "Stanley Praimnath, Open Lines",
             "first_half": "Guest host Connie Willis (info) will be joined by Stanley Praimnath, one of the few survivors who was inside the Twin Towers 25 years ago, on September 11, 2001. His office was on the South Tower's 81st floor. He’ll recount his harrowing escape from the impact zone, the stranger who became a lifelong friend that day, and the extraordinary deal he made with God. Followed by Open Lines in the latter half. Give Connie a call and discuss whatever is on your mind!"
+        },
+        {
+            "title": "Oddities of Planet Earth / Aliens \u0026 the Military",
+            "date": "2026-09-12",
+            "host": "Connie Willis",
+            "guests": "Thom Powell, James Bartley",
+            "first_half": "In the first half, guest host Connie Willis (info) speaks with retired teacher Thom Powell about environmental science and the oddities of Planet Earth. In the second half, researcher James Bartley will explore the military and aerospace industry's connection to UFOs and alien life forms. Bartley has investigated alien abductions and Reptilians for over 25 years.",
+            "second_half": "6-10pm PT: Art Bell—Somewhere in Time returns to August 8, 1997 for a night of Open Lines featuring \"Men in Black\" and \"Time Machine\" hotlines."
+        },
+        {
+            "title": "UFOs \u0026 Hard Science / The Lady in Black",
+            "date": "2026-09-13",
+            "host": "Richard Syrett",
+            "guests": "Andreas Lück, Giovanni Sticco",
+            "first_half": "First Half: Molecular biologist Dr. Andreas Lück joins guest host Richard Syrett to highlight the value of hard science in researching UFOs. Lück will probe the topic of the Nazca mummies and whether they are a hoax, as well as whether it may be possible to cross humans with extraterrestrials.",
+            "second_half": "Second Half: Filmmaker Giovanni Sticco will discuss Rudolph \"Rudy\" Valentino, his extraordinary life, his sudden death in 1926, and the enduring mystery surrounding the legendary Lady in Black who became associated with his grave. Sticco will also share his own experiences with the paranormal and unexplained."
+        },
+        {
+            "title": "Advancement of AI / Quantum Consciousness",
+            "date": "2026-09-14",
+            "host": "George Noory",
+            "guests": "Bart Kosko, Jeffrey M. Smith",
+            "first_half": "First Half: Dr. Bart Kosko will discuss the rapid advancement of artificial intelligence and what it means for the future of society. A USC professor of computer engineering and law, he was recently inducted into the National Academy of Inventors for his research into AI.",
+            "second_half": "Second Half: Author and filmmaker Jeffrey Smith will discuss how we can access quantum consciousness and use it to tap into the highest version of ourselves. Smith is best known as a leading spokesperson on the dangers of GMOs, but is now prepared to share an aspect of his life that he has kept secret."
+        },
+        {
+            "title": "Natural Health Remedies / What Lies Beyond",
+            "date": "2026-09-15",
+            "host": "George Noory",
+            "guests": "Benjamin Fuchs, Regan Forston",
+            "first_half": "First Half: Pharmacist Ben Fuchs will discuss wellness and help us understand that supplementation along with the modern medical model should be implemented in everyday life in order to maintain optimal health.",
+            "second_half": "Second Half: Author Regan Forston will discuss the afterlife, reincarnation, and the fascination so many people have of what lies beyond. He'll also present his thoughts on what happens as we enter the space between this life and the next."
+        },
+        {
+            "title": "Investigating Roswell / Climate Engineering History",
+            "date": "2026-09-16",
+            "host": "George Noory",
+            "guests": "David Rudiak, James Rodger Fleming",
+            "first_half": "First Half: Ufologist David Rudiak will bring us unique details about what really happened in Roswell, discuss debunkers, and show us how he believes his research confirms the event. Rudiak has been researching the 1947 Roswell Crash for over 30 years.",
+            "second_half": "Second Half: Professor Jim Fleming will talk about the historical attempts to manipulate weather and climate, critically examining the scientific, political, and ethical dimensions of such endeavors. Fleming is a science historian who has written extensively on the history of meteorology and climate change."
+        },
+        {
+            "title": "Ancient Artificial Intelligence / The Conjuring House",
+            "date": "2026-09-17",
+            "host": "George Noory",
+            "guests": "Heather Lynn, Andrea Perron",
+            "first_half": "First Half: Cognitive archaeologist Dr. Heather Lynn will bring us her research into the history of artificial intelligence and the claim that AI began long before Silicon Valley, 30,000 years ago when the first humans pressed ochre onto cave walls and started storing their minds outside their bodies.",
+            "second_half": "Second Half: Author Andrea Perron is the eldest daughter of the Perron family, whose haunted history inspired the film The Conjuring. She'll discuss both her father's memoir and her own  extraordinary experiences that took place at the family farmhouse."
+        },
+        {
+            "title": "La Bruja Curandera / Open Lines",
+            "date": "2026-09-18",
+            "host": "Rich Berra",
+            "guests": "Wendy Mata, Open Lines",
+            "first_half": "Guest host Rich Berra (email) speaks with shaman and fire priestess Wendy Mata about what it means to be a fifth-generation Bruja Curandera. She'll talk about her experiences with La Llorona, duendes, and La Lechuza. Mata will also explain curses and how they pass through a bloodline, what it actually looks like to talk to the dead safely, the warning signs that someone has been hexed, and her encounters with dangerous spirits in Italy, Malaysia, Brazil, and other places around the world. Followed by Open Lines—give Rich a call and discuss whatever's on your mind!"
         }
     ]
 }
