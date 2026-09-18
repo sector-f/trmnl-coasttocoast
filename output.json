@@ -1,19 +1,66 @@
 {
     "shows": [
         {
-            "title": "Ancient Artificial Intelligence / The Conjuring House",
-            "date": "2026-09-17",
-            "host": "George Noory",
-            "guests": "Heather Lynn, Andrea Perron",
-            "first_half": "First Half: Cognitive archaeologist Dr. Heather Lynn will bring us her research into the history of artificial intelligence and the claim that AI began long before Silicon Valley, 30,000 years ago when the first humans pressed ochre onto cave walls and started storing their minds outside their bodies.",
-            "second_half": "Second Half: Author Andrea Perron is the eldest daughter of the Perron family, whose haunted history inspired the film The Conjuring. She'll discuss both her father's memoir and her own  extraordinary experiences that took place at the family farmhouse."
-        },
-        {
             "title": "La Bruja Curandera / Open Lines",
             "date": "2026-09-18",
             "host": "Rich Berra",
             "guests": "Wendy Mata, Open Lines",
             "first_half": "Guest host Rich Berra (email) speaks with shaman and fire priestess Wendy Mata about what it means to be a fifth-generation Bruja Curandera. She'll talk about her experiences with La Llorona, duendes, and La Lechuza. Mata will also explain curses and how they pass through a bloodline, what it actually looks like to talk to the dead safely, the warning signs that someone has been hexed, and her encounters with dangerous spirits in Italy, Malaysia, Brazil, and other places around the world. Followed by Open Lines—give Rich a call and discuss whatever's on your mind!"
+        },
+        {
+            "title": "Psychic Communication with Animals / Ocean Mysteries",
+            "date": "2026-09-19",
+            "host": "Rich Berra",
+            "guests": "Angel Morgan, Simon Boxall ",
+            "first_half": "Joining Rich Berra (email), paranormal Investigator Angel Morgan speaks about her life as a pet psychic and medium as she explores how we can all communicate with animals on a deep level. She'll dive into the spooky realities of how some spirits, animals included, remain bound to haunted locations. Followed by oceanographer Dr. Simon Boxall, who'll discuss the world’s oceans and the mysteries and phenomena of the deep seas, such as the Bermuda Triangle, rogue waves, and mega-tsunamis. ",
+            "second_half": "6-10 pm PT: Art Bell - Somewhere in Time returns to 8/10/99 when veteran of international espionage, John Nolan, shared how to dig up secrets."
+        },
+        {
+            "title": "UFO Agenda / Sasquatch \u0026 Mysterious Beings",
+            "date": "2026-09-20",
+            "host": "Richard Syrett",
+            "guests": "David Nino Rodriguez, Arla Collett Williams",
+            "first_half": "First Half: Joining Richard Syrett, former heavyweight boxing champion David Nino Rodriguez discusses his experiences with UFOs and the secrets he believes the government is concealing. He also explores the belief that ETs may be malevolent and seeking to control humanity.",
+            "second_half": "Second Half: Author Arla Collett Williams shares her lifelong experiences with beings often described as cryptids or mythological creatures. Drawing on decades of paranormal experiences, she'll reveal encounters with Sasquatch, Star People, and other unexplained entities, and explain how anyone can develop a personal relationship with such beings."
+        },
+        {
+            "title": "Kilgallen \u0026 Earhart / Intelligent Design",
+            "date": "2026-09-21",
+            "host": "George Noory",
+            "guests": "Mark Shaw, Geoffrey Simmons",
+            "first_half": "First Half: Investigative author and former criminal defense attorney Mark Shaw delves into his latest work and research exploring the connection between pioneering American journalist Dorothy Kilgallen and aviator Amelia Earhart.",
+            "second_half": "Second Half: Author Geoffrey Simmons will discuss intelligent design, highlighting some of the remarkable features of biology that he argues could not have arisen through evolutionary mechanisms alone."
+        },
+        {
+            "title": "AI Discovery System / Dreams \u0026 Emotions",
+            "date": "2026-09-22",
+            "host": "George Noory",
+            "guests": "Nick Begich, Edward Bruce Bynum",
+            "first_half": "First Half: Nick Begich is an author, researcher, and longtime investigator of emerging and unconventional technologies. He'll share his efforts to develop a human-AI discovery system designed to encourage radical creativity while subjecting extraordinary ideas to evidence,  testing, and the possibility of failure.",
+            "second_half": "Second Half: Clinical psychologist Edward Bruce Bynum will explore the emotionally revealing world of dreams, examining how they may be deeply intertwined with the lives of those closest to us, including family members and romantic partners, and the patterns that shape our lives."
+        },
+        {
+            "title": "Tribute to Nick Pope / Paranormal Investigations",
+            "date": "2026-09-23",
+            "host": "George Noory",
+            "guests": "Jason Martell, Victoria Gross",
+            "first_half": "First Half: Join us for a tribute to author, UFO researcher, and former British Ministry of Defense investigator Nick Pope, who passed away earlier this year. Researcher Jason Martell will reflect on Pope’s legacy as a ufologist and civil servant, along with guest appearances from author William Henry, filmmaker James Fox, and Professor Paul Hynek.",
+            "second_half": "Second Half: Author Victoria Gross will share insights from her years of paranormal investigations and producing paranormal TV programs. She'll explore different types of hauntings and other phenomena, while emphasizing the importance of proper training and ethical practices in paranormal research."
+        },
+        {
+            "title": "Bridging the Divide / The SoulPhone",
+            "date": "2026-09-24",
+            "host": "George Noory",
+            "guests": "Jim Gray, Cheryll Jones, Gary Schwartz",
+            "first_half": "First Half: James P. Gray has served as a trial judge in Orange County, California, since 1983. He will discuss and offer solutions to pressing issues, including society's growing polarization, the burden of debt passed on to future generations, school choice, the current state of government, and more.",
+            "second_half": "Second Half: C2C's investigative reporter Cheryll Jones presents her interview with parapsychologist Dr. Gary Schwartz, who discusses the possibility of communicating with the afterlife through what he calls the SoulPhone."
+        },
+        {
+            "title": "Haunted Bellaire House / Open Lines",
+            "date": "2026-09-25",
+            "host": "Ryan Wrecker",
+            "guests": "Kristen Lee, Open Lines",
+            "first_half": "Joining guest host Ryan Wrecker (email), paranormal investigator Kristen Lee shares nearly two decades of experience at the Bellaire House in Ohio, one of America’s best-known paranormal locations. She'll report on the unusual activity at the property and why she believes the Bellaire House is more than a traditional haunted house. According to Lee, the environment seems to respond to each person who enters, producing different experiences and encounters from one visitor to the next. Followed by Open Lines in the latter half. Give Ryan a call and discuss whatever is on your mind!"
         }
     ]
 }
