@@ -1,14 +1,6 @@
 {
     "shows": [
         {
-            "title": "Kilgallen \u0026 Earhart / Intelligent Design",
-            "date": "2026-09-21",
-            "host": "George Noory",
-            "guests": "Mark Shaw, Geoffrey Simmons",
-            "first_half": "First Half: Investigative author and former criminal defense attorney Mark Shaw delves into his latest work and research exploring the connection between pioneering American journalist Dorothy Kilgallen and aviator Amelia Earhart.",
-            "second_half": "Second Half: Author Geoffrey Simmons will discuss intelligent design, highlighting some of the remarkable features of biology that he argues could not have arisen through evolutionary mechanisms alone."
-        },
-        {
             "title": "AI Discovery System / Dreams \u0026 Emotions",
             "date": "2026-09-22",
             "host": "George Noory",
@@ -36,8 +28,8 @@
             "title": "Haunted Bellaire House / Open Lines",
             "date": "2026-09-25",
             "host": "Ryan Wrecker",
-            "guests": "Kristen Lee, Open Lines",
-            "first_half": "Joining guest host Ryan Wrecker (email), paranormal investigator Kristen Lee shares nearly two decades of experience at the Bellaire House in Ohio, one of America’s best-known paranormal locations. She'll report on the unusual activity at the property and why she believes the Bellaire House is more than a traditional haunted house. According to Lee, the environment seems to respond to each person who enters, producing different experiences and encounters from one visitor to the next. Followed by Open Lines in the latter half. Give Ryan a call and discuss whatever is on your mind!"
+            "guests": "Kristin Lee, Open Lines",
+            "first_half": "Joining guest host Ryan Wrecker (email), paranormal investigator Kristin Lee shares nearly two decades of experience at the Bellaire House in Ohio, one of America’s best-known paranormal locations. She'll report on the unusual activity at the property and why she believes the Bellaire House is more than a traditional haunted house. According to Lee, the environment seems to respond to each person who enters, producing different experiences and encounters from one visitor to the next. Followed by Open Lines in the latter half. Give Ryan a call and discuss whatever is on your mind!"
         }
     ]
 }
