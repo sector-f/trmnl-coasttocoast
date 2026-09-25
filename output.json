@@ -1,19 +1,64 @@
 {
     "shows": [
         {
-            "title": "Bridging the Divide / The SoulPhone",
-            "date": "2026-09-24",
-            "host": "George Noory",
-            "guests": "Jim Gray, Cheryll Jones, Gary Schwartz",
-            "first_half": "First Half: James P. Gray has served as a trial judge in Orange County, California, since 1983. He will discuss and offer solutions to pressing issues, including society's growing polarization, the burden of debt passed on to future generations, school choice, the current state of government, and more.",
-            "second_half": "Second Half: Join George Noory and investigative reporter Cheryll Jones as they present Cheryll’s recorded interview with parapsychologist Dr. Gary Schwartz, discussing the possibility of communication with the afterlife through what he calls the SoulPhone. Live calls in the 1am hour with George, Cheryll, and Gary."
-        },
-        {
             "title": "Haunted Bellaire House / Open Lines",
             "date": "2026-09-25",
             "host": "Ryan Wrecker",
             "guests": "Kristin Lee, Open Lines",
             "first_half": "Joining guest host Ryan Wrecker (email), paranormal investigator Kristin Lee shares nearly two decades of experience at the Bellaire House in Ohio, one of America’s best-known paranormal locations. She'll report on the unusual activity at the property and why she believes the Bellaire House is more than a traditional haunted house. According to Lee, the environment seems to respond to each person who enters, producing different experiences and encounters from one visitor to the next. Followed by Open Lines in the latter half. Give Ryan a call and discuss whatever is on your mind!"
+        },
+        {
+            "title": "Life of Aleister Crowley / Other Side Messages",
+            "date": "2026-09-26",
+            "host": "Ryan Wrecker",
+            "guests": "Lon Milo DuQuette, Kathleen Dayan",
+            "first_half": "Joining Ryan Wrecker (email), author Lon Milo DuQuette explores the life of one of the 20th century’s most controversial figures, occultist Aleister Crowley. He'll examine who Crowley was and the beliefs that shaped his extraordinary life and reputation. Followed by author Kathleen Dayan, who shares the experiences that led her to mediumship and the messages she says she received from the Other Side. She'll reveal how those experiences transformed her own understanding of grief and fear of death.",
+            "second_half": "6-10pm PT: Art Bell - Somewhere in Time returns to 8/11/97 when callers debated the UPS strike and its possible crippling of the economy."
+        },
+        {
+            "title": "Strange Disappearances in Alaska / Las Vegas Hitwoman",
+            "date": "2026-09-27",
+            "host": "George Knapp",
+            "guests": "David Paulides, Joe Schoenmann",
+            "first_half": "First Half: David Paulides, director of the CanAm Missing Project, has 20 years of law enforcement experience and a background in technology. He delves into his new work exploring strange cases of disappearances in Alaska.",
+            "second_half": "Second Half: Journalist Joe Schoenmann recounts the chilling story of a young Las Vegas woman groomed by her husband to become a hit woman, only to ultimately become his victim. Drawing on nearly three decades of reporting from Las Vegas, he'll also share unforgettable stories of the city’s glitz, crime, and enduring mysteries."
+        },
+        {
+            "title": "Radio Maverick / The Exorcism Ritual",
+            "date": "2026-09-28",
+            "host": "George Noory",
+            "guests": "Dan Mason, Archbishop Ron Feyl Enright",
+            "first_half": "First Half: Dan Mason takes us on a journey through his radio broadcasting career, from his humble beginnings as an overnight disc jockey in Kentucky to the top floor of CBS Radio. He'll also explore the art of reinvention, explaining why he views it as a discipline essential to personal and professional growth.",
+            "second_half": "Second Half: Archbishop Ronald Enright shares accounts from nearly five decades of performing thousands of exorcisms. He'll discuss the rituals and practices involved in successful exorcisms, how he assesses cases of alleged demonic possession, and why he believes the ministry remains necessary after more than 3,000 years."
+        },
+        {
+            "title": "Sci-Fi TV / Knights Templar Influence",
+            "date": "2026-09-29",
+            "host": "George Noory",
+            "guests": "Marc Zicree, Kathleen Ball",
+            "first_half": "First Half: Writer and producer Marc Scott Zicree will discuss his latest projects, including a feature film, five two-hour science fiction television pilots, and his sci-fi series Space Command. He'll also revisit some of the most memorable episodes of The Twilight Zone, along with the life and legacy of its creator, Rod Serling.",
+            "second_half": "Second Half: Documentary filmmaker Kathleen Ball will share findings from her travels through Brazil, France, Portugal, and the UK, tracing the medieval strategy of the Knights Templar and their influence across European, English, and Scottish society. "
+        },
+        {
+            "title": "Secret Door Special",
+            "date": "2026-09-30",
+            "host": "George Noory",
+            "first_half": "Who's behind the Secret Door? Join us as George Noory welcomes four surprise guests and tries to identify each based solely on their disguised voices and their expertise of topic."
+        },
+        {
+            "title": "Mandalay Bay Shooting / Haunted Louisiana",
+            "date": "2026-10-01",
+            "host": "George Noory",
+            "guests": "Dawna Kaufmann, Michael D. Wynne",
+            "first_half": "First Half: True crime journalist Dawna Kaufmann revisits the Mandalay Bay shooting in Las Vegas, examining the evidence and the questions that have lingered since that tragic night nine years ago. She’ll also share insights from investigating forensic evidence behind some of America’s most compelling cases.",
+            "second_half": "Second Half: Author and historian Michael Wynne explores haunted central Louisiana, sharing how he researched and investigated the region’s haunted locations. He’ll recount some of his favorite stories and personal experiences, and discuss what his investigations have revealed about ghosts and the spirit world."
+        },
+        {
+            "title": "Exploring the Tarot / Open Lines",
+            "date": "2026-10-02",
+            "host": "George Noory",
+            "guests": "Arthur Rosengarten, Open Lines",
+            "first_half": "Jungian psychologist, psychotherapist, and author Dr. Art Rosengarten explores why timeless oracles such as the Tarot may be more relevant than ever in a world increasingly shaped by advanced technology and machines. He’ll discuss how oracles can offer a direct connection to our natural intelligence and innate humanity, without algorithms, the internet, or the mining of personal data. Followed by Open Lines in the latter half. Give George a call and discuss whatever is on your mind!"
         }
     ]
 }
