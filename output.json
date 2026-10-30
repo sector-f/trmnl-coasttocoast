@@ -1,19 +1,66 @@
 {
     "shows": [
         {
-            "title": "Houdini \u0026 Magic / Lizzie Borden Case",
-            "date": "2026-10-29",
-            "host": "George Noory",
-            "guests": "Gabe Fajuri, Cheryll Jones",
-            "first_half": "First Half: President of Potter \u0026 Potter Auctions, Gabe Fajuri will discuss the legacy of Harry Houdini, the mysteries surrounding his death, and Houdini’s influence on the world of magic. He'll also preview the special anniversary auction at the Magic Castle in Hollywood on Halloween, featuring Houdini-related artifacts.",
-            "second_half": "Second Half: C2C's investigative reporter Cheryll Jones presents her recorded interview with former homicide detective Jason White exploring the infamous 1892 Lizzie Borden case, in which Borden was accused of the axe murders of her father and stepmother. Jason will join George and Cheryll live during the final hour."
-        },
-        {
             "title": "Paranormal Strangeness / Ghost-to-Ghost 2026",
             "date": "2026-10-30",
             "host": "George Noory",
             "guests": "Joshua P. Warren, Open Lines",
             "first_half": "Paranormal investigator, author, and podcast host Joshua P. Warren will discuss new strategies for dealing with paranormal entities and reveal why Halloween has long been considered a unique time for heightened supernatural activity. Exploring the mysteries of interdimensional portals, energy anomalies, and spirit encounters, Warren will offer guidance for navigating paranormal phenomena. Then, join us for our annual Ghost-to-Ghost show and call in with your scariest, creepiest ghost story. "
+        },
+        {
+            "title": "Witchcraft \u0026 Wizards / Demons \u0026 Ghosts",
+            "date": "2026-10-31",
+            "host": "Connie Willis",
+            "guests": "Jerry Fitch, Jimmy Petonito",
+            "first_half": "On Halloween night, Connie Willis (info) will be joined by IT analyst and night-shift rideshare driver Jerry Fitch, known as \"The Midnight Uber,\" to explore witchcraft and wizards, including his belief that certain abilities pass down through generations. He'll also share stories of his great-grandmother's spiritually active mansion. Followed by paranormal investigator and radio host Jimmy Petonito, known as \"Mr. Haunted,\" who'll recount some of his most chilling cases involving ghosts, demonic activity, and exorcisms.",
+            "second_half": "6-10pm PT: Art Bell - Somewhere in Time returns to 8/17/99 when Bruce Friedrich of PETA made the case for vegetarianism."
+        },
+        {
+            "title": "Underground Facilities \u0026 UAPs / Haunted San Jose",
+            "date": "2026-11-01",
+            "host": "George Noory",
+            "guests": "Anthony F. Sanchez, Deb Wible",
+            "first_half": "First Half: George Noory is joined by author and UAP researcher Anthony F. Sanchez, who'll discuss the theory that America's expansion of AI data centers may include support for alleged underground infrastructure. He'll examine reports of hidden facilities, continuity-of-government bunkers, advanced military technology, and recent UAP and drone incidents.",
+            "second_half": "Second Half: Ghost tour founder and paranormal researcher Deb Wible talks about how her fascination with the supernatural inspired her to create San Jose’s first ghost tour. She’ll highlight the city’s hidden history, famous landmarks, and local legends."
+        },
+        {
+            "title": "Angelic Guidance / Miraculous Encounters",
+            "date": "2026-11-02",
+            "host": "George Noory",
+            "guests": "Joan of Angels, Trapper Jack",
+            "first_half": "First Half: Teacher and medical intuitive Dr. Joan Hangarter, known as \"Joan of Angels,\" will discuss angels, miracles, and divine intervention. She'll share firsthand experiences, practical techniques for working with angelic guidance, and lessons from over 45 years of healing and spiritual work.",
+            "second_half": "Second Half: Podcast host and broadcaster Trapper Jack will share accounts of angelic encounters, miraculous healings, and synchronicities that suggest heaven may be closer than we realize. Drawing from stories featured on his Touched by Heaven podcast, he’ll examine what these experiences reveal about faith and the afterlife."
+        },
+        {
+            "title": "Trends \u0026 Forecasts / Great Pyramid Controversies",
+            "date": "2026-11-03",
+            "host": "George Noory",
+            "guests": "Gerald Celente, Scott Creighton",
+            "first_half": "First Half: Trends forecaster and publisher Gerald Celente will discuss the midterm elections, the wars in Iran and Ukraine, the economy, oil and precious metals markets, and the key geopolitical and socioeconomic trends shaping the world today.",
+            "second_half": "Second Half: Author and independent researcher Scott Creighton delves into the evidence and controversies surrounding the Great Pyramid of Giza, including questions about the quarry marks attributed to Colonel Howard Vyse, and the monument’s link to Pharaoh Khufu. He'll also explore various Great Pyramid hoaxes and examine competing interpretations of the pyramid’s origins."
+        },
+        {
+            "title": "Ancient Aliens \u0026 MJ-12 / Bigfoot \u0026 Nature",
+            "date": "2026-11-04",
+            "host": "George Noory",
+            "guests": "Mike Bara, Robert Pyle",
+            "first_half": "First Half: Author and researcher Mike Bara will explore the connections he has uncovered between the search for ancient alien technology and the Apollo space program. He'll also examine claims that a secret government faction known as MJ-12 has shaped U.S. history behind the scenes, including allegations involving Presidents Nixon, Reagan, and Trump.",
+            "second_half": "Second Half: Ecologist and independent scholar Robert Pyle will discuss how Bigfoot might help reconnect humanity with the natural world amid the distractions of AI and social media, as he explores how the legendary primate may be more adaptable than modern humans."
+        },
+        {
+            "title": "Tribute to Michael Cremo / Healing \u0026 Energy Work",
+            "date": "2026-11-05",
+            "host": "George Noory",
+            "guests": "Michael Cremo, Von Braschler",
+            "first_half": "First Half: On Wednesday, October 14th, 2026, we lost Michael Cremo, the researcher internationally hailed as the \"forbidden archeologist.\" He argued that humans did not evolve upward from matter, but instead devolved downward from pure consciousness. Join us for this tribute show as we welcome several of his friends and colleagues to share stories about his life and work. ",
+            "second_half": "Second Half: Author and researcher Von Braschler will discuss his latest book, Healing the Subtle Body, about our magical and natural ability to transform energy. He'll explain how to achieve balance between the mind, body, and inner awareness."
+        },
+        {
+            "title": "Human Potential / Open Lines",
+            "date": "2026-11-06",
+            "host": "George Noory",
+            "guests": "Caroline Cory, Open Lines",
+            "first_half": "Filmmaker, author, speaker, and researcher Caroline Cory will discuss her study of visually impaired individuals and how they learned to perceive and read using unconventional methods. She'll examine how these cases may reveal untapped potential of the human mind, and show the implications for the future of medicine. Followed by Open Lines in the latter half. Give George a call and discuss whatever's on your mind!"
         }
     ]
 }
