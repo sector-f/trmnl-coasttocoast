@@ -1,11 +1,60 @@
 {
     "shows": [
         {
-            "title": "Bigfoot on Film / Open Lines",
-            "date": "2026-11-13",
+            "title": "Beast of Bray Road Update / Demonology Encounters",
+            "date": "2026-11-14",
             "host": "Connie Willis",
-            "guests": "Jan Maccabee, Open Lines",
-            "first_half": "Guest host Connie Willis (info) speaks with Bigfoot and UFO researcher Jan Maccabee about her ownership of the legendary Patterson-Gimlin film's 16mm reversal master footage. She'll talk about the ways her and her late husband preserved the film, its legal history, and Dr. Bruce Maccabee's analysis of the footage. Jan will also share additional insights about the enduring Bigfoot mystery. Followed by Open Lines in the latter half—give Connie a call and discuss whatever's on your mind!"
+            "guests": "Lee Hampel, Jereme Leonard",
+            "first_half": "Researcher and Beast of Bray Road eyewitness Lee Hampel joins guest host Connie Willis (info) to discuss the latest developments in unusual activity and sightings on his farm in Wisconsin. He'll examine recent sightings, unusual creatures, and UFO activity. Followed by demonologist, author, and paranormal investigator Jereme Leonard who delves into the real-life haunting that inspired his book The Dwelling: A Dark Entity. He'll share what he witnessed during the case, how it shaped his path into demonology.",
+            "second_half": "From 6-10pm PT, Art Bell: Somewhere in Time returns to 8/21/96 when planetary scientist Harold Levison discussed possible life on Mars."
+        },
+        {
+            "title": "Federal Secrets / Non-Human Intelligences",
+            "date": "2026-11-15",
+            "host": "Richard Syrett",
+            "guests": "Kent Heckenlively, Tillie Treadwell",
+            "first_half": "First Half: Guest host Richard Syrett will be joined by New York Times bestselling author Kent Heckenlively to discuss the 2025 Task Force on the declassification of federal secrets and its efforts to bring greater transparency to government records. Heckenlively will examine emerging revelations and controversies surrounding the CIA, the JFK assassination, UFOs, MK-Ultra, and other classified programs. ",
+            "second_half": "Second Half: Paranormal researcher Tillie Treadwell who'll delve into her role as an intermediary between human and nonhuman intelligences. She'll share information about the unexplained phenomena that has followed her throughout her life, and the beings she believes have guided her since childhood."
+        },
+        {
+            "title": "Dearly Departed Show / Astronomy \u0026 Astrophysics",
+            "date": "2026-11-16",
+            "host": "George Noory",
+            "guests": "J. Craig Wheeler",
+            "first_half": "Join us for our special Dearly Departed Show, where for the first two hours will feature four separate recorded interviews from past Coast to Coast AM guests who have left us.",
+            "second_half": "Followed by astrophysicist and author Craig Wheeler who'll discuss the latest developments in astronomy and astrophysics, including the search for extraterrestrial life, new discoveries from the James Webb Space Telescope,  and current research into black holes, dark matter, and dark energy."
+        },
+        {
+            "title": "Natural Remedies / Nikola Tesla",
+            "date": "2026-11-17",
+            "host": "George Noory",
+            "guests": "Randi Shannon, Steve Ubaney",
+            "first_half": "First Half: Dr. Randi Shannon will discuss the many ways we can use natural remedies to help with ailments and health issues in addition to using modern medicine.",
+            "second_half": "Second Half: Author, historian, and investigative reporter Steve Ubaney will discuss the life and final years of Nikola Tesla, including his military technology concepts, the government agencies that monitored him, the individuals around him with ties to espionage, and the spy networks that surrounded him. "
+        },
+        {
+            "title": "UFOs at Military Installations / Negative Spirits",
+            "date": "2026-11-18",
+            "host": "George Noory",
+            "guests": "Robert Salas, Jeffrey Seelman",
+            "first_half": "Retired U.S. Air Force Officer and UFO researcher Robert Salas will discuss the 1967 UFO incidents he reported while serving as a missile launch officer at Malmstrom Air Force Base, as well as talk about alleged UFO activity at other military installations. ",
+            "second_half": "Followed by exorcist and energy clearing expert Jeffrey Seelman will explain the links between negative spirits, extraterrestrial influences, and harmful human intentions. He'll share his techniques to protect from these forces, along with insights into psychic abilities, hauntings and spirit attachments."
+        },
+        {
+            "title": "JFK Assassination / Business of Surveillance",
+            "date": "2026-11-19",
+            "host": "George Noory",
+            "guests": "Mark Shaw, Sarah Westall",
+            "first_half": "Suthor Mark Shaw joins the show as we mark the November 22, 1963 assassination of President John F. Kennedy and explore why questions surrounding the case endure more than six decades later. ",
+            "second_half": "In the latter half of the program, technology commentator Sarah Westall will discuss surveillance pricing, consumer-data tracking, and how companies profit from personal information. She'll also examine AI's economic impact, the race to build data centers, which jobs are most vulnerable to automation, and what happens when AI replaces the entry-level roles that train future experts."
+        },
+        {
+            "title": "Exploring the Paranormal Unknown / Open Lines",
+            "date": "2026-11-20",
+            "host": "Rich Berra",
+            "guests": "Paul Davids, Open Lines",
+            "first_half": "Guest host Rich Berra (email) welcomes writer, director, and producer Paul Davids to examine his paranormal investigations, evidence for life after death, AI-assisted spirit communication and UFO disclosure. He'll share details from his latest trip to the historic sanctuary of Machu-Picchu. ",
+            "second_half": "Followed by Open Lines. Give Rich a call and discuss whatever's on your mind."
         }
     ]
 }
