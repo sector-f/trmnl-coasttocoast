@@ -1,20 +1,66 @@
 {
     "shows": [
         {
-            "title": "JFK Assassination / Business of Surveillance",
-            "date": "2026-11-19",
-            "host": "George Noory",
-            "guests": "Mark Shaw, Sarah Westall",
-            "first_half": "First Half: Author Mark Shaw joins the show as we mark the November 22, 1963 assassination of President John F. Kennedy and explore why questions surrounding the case endure more than six decades later. ",
-            "second_half": "Second Half: Technology commentator Sarah Westall will discuss surveillance pricing, consumer-data tracking, and how companies profit from personal information. She'll also examine AI's economic impact, the race to build data centers, which jobs are most vulnerable to automation, and what happens when AI replaces the entry-level roles that train future experts."
-        },
-        {
             "title": "Exploring the Paranormal Unknown / Open Lines",
             "date": "2026-11-20",
             "host": "Rich Berra",
             "guests": "Paul Davids, Open Lines",
-            "first_half": "Guest host Rich Berra (email) welcomes writer, director, and producer Paul Davids to examine his paranormal investigations, evidence for life after death, AI-assisted spirit communication and UFO disclosure. He'll share details from his latest trip to the historic sanctuary of Machu-Picchu. ",
-            "second_half": "Followed by Open Lines. Give Rich a call and discuss whatever's on your mind."
+            "first_half": "Guest host Rich Berra (email) welcomes writer, director, and producer Paul Davids to examine his paranormal investigations, evidence for life after death, AI-assisted spirit communication and UFO disclosure. He'll share details from his latest trip to the historic sanctuary of Machu-Picchu. Followed by Open Lines. Give Rich a call and discuss whatever's on your mind!"
+        },
+        {
+            "title": "Animal Intelligence / Power of Numbers ",
+            "date": "2026-11-21",
+            "host": "Rich Berra",
+            "guests": "Barbara Wiseman, Jesse Kalsi",
+            "first_half": "Humanitarian and environmental advocate Barbara Wiseman joins Rich Berra (email) to discuss animal intelligence and awareness, along with The Earth Organization, which she co-founded with conservationist Dr. Lawrence Anthony, known for his bond with wild elephants. Followed by astronumerologist and author Jesse Kalsi, who'll explore how numbers influence luck, relationships, finances, and the energy of our surroundings. He'll explain the ancient Chaldean system and the significance of recurring numbers.",
+            "second_half": "6-10pm PT: Art Bell - Somewhere in Time returns to 8/22/01 for a night of conversation about the Chilbolton crop glyph."
+        },
+        {
+            "title": "JFK Assassination Revisited / Cybersecurity Analysis",
+            "date": "2026-11-22",
+            "host": "George Knapp",
+            "guests": "Dick Russell, Stuart Madnick",
+            "first_half": "First Half: Author and investigative journalist Dick Russell joins George Knapp to explore the forces behind the assassination of JFK on November 22, 1963. He'll review the evidence, explore lingering questions, and discuss how the events in Dallas continue to influence public trust, government accountability, and American history.",
+            "second_half": "Second Half: Cybersecurity expert and professor of information technology Stuart Madnick will examine recent technology outages and disruptions, including FAA flight groundings, major banking system failures, and other incidents that expose society's growing dependence on digital infrastructure."
+        },
+        {
+            "title": "Life \u0026 Death Boundaries / Paranormal Investigations",
+            "date": "2026-11-23",
+            "host": "George Noory",
+            "guests": "Dr. Tarvez Tucker, Larry Lawson",
+            "first_half": "First Half: Neurologist Dr. Tarvez Tucker will explore what science reveals about the boundary between life and death, including near-death experiences, hidden awareness, and end-of-life consciousness. Drawing on patient experiences, she'll also discuss ways families can connect with loved ones during their final moments.",
+            "second_half": "Second Half: Retired investigator and paranormal researcher Larry Lawson will discuss the importance of structure and ethical accountability in paranormal investigations. Drawing on principles from criminal investigations, he'll explain how professional standards can establish credibility and advance the field."
+        },
+        {
+            "title": "Alternative Biblical Accounts / UFO Reflections",
+            "date": "2026-11-24",
+            "host": "George Noory",
+            "guests": "Breandan Lumpkin, Philip Mantle",
+            "first_half": "First Half: Author and publisher Breandan Lumpkin will explore lesser-known books of the Ethiopian Orthodox Tewahedo Church, including the Book of Enoch. He'll examine ancient accounts of the Watchers, giants, demons, and the Ark of the Covenant, uncovering mysteries and teachings preserved in Ge'ez texts but absent from most modern Bibles.",
+            "second_half": "Second Half: UFO researcher and author Philip Mantle will reflect on 40 years of UFO research, revisiting notable investigations, lesser-known cases, and more recent encounters. He'll offer insights into the people, events, and controversies that have shaped modern ufology."
+        },
+        {
+            "title": "Reincarnation Research / Occult Influences",
+            "date": "2026-11-25",
+            "host": "George Noory",
+            "guests": "Stephen Sakellarios, Joshua Reid",
+            "first_half": "First Half: Author and reincarnation researcher Stephen Sakellarios will discuss the evidence for reincarnation, his efforts to document a claimed past life, and his controversial research linking that lifetime to famous literary works, including A Christmas Carol and The Raven.",
+            "second_half": "Second Half: Researcher, podcast host, and founder of The Redpill Project, Joshua Reid delves into occult and esoteric traditions, hidden influences on world events, and alternative perspectives on history and human consciousness. He'll also share insights into the forces he believes shape society and humanity's evolving understanding of reality."
+        },
+        {
+            "title": "Gratitude \u0026 Luck / The Mandela Effect",
+            "date": "2026-11-26",
+            "host": "George Noory",
+            "guests": "Dr. Joe Gallenberger, Cheryll Jones, Aage Nost",
+            "first_half": "First Half: Clinical psychologist and author Dr. Joe Gallenberger will discuss how gratitude can support healing and enhance manifestation. He'll share success stories from his Liquid Luck work, demonstrate practical applications of his techniques, and provide updates on his latest projects.",
+            "second_half": "Second Half: C2C's investigative reporter Cheryll Jones presents her interview with author and researcher Aage Nost. They'll explore the Mandela Effect, in which large numbers of people share mistaken memories of events or details, and examine how the concept of parallel realities may offer an explanation for the phenomenon."
+        },
+        {
+            "title": "Akashic Records \u0026 Past Lives / Open Lines",
+            "date": "2026-11-27",
+            "host": "Ryan Wrecker",
+            "guests": "Shelley Kaehr, Open Lines",
+            "first_half": "Joining guest host  Ryan Wrecker (email), past life regressionist and author Shelley A. Kaehr, Ph.D., will reveal how she first accessed the Akashic Records, which many believe to be a multidimensional source of spiritual insight and soul-level knowledge. She'll share techniques for exploring past lives and uncovering life journeys. Followed by Open Lines in the latter half. Give Ryan a call and discuss whatever's on your mind!"
         }
     ]
 }
