@@ -1,20 +1,12 @@
 {
     "shows": [
         {
-            "title": "Reincarnation Research / Occult Influences",
-            "date": "2026-11-25",
-            "host": "George Noory",
-            "guests": "Stephen Sakellarios, Joshua Reid",
-            "first_half": "First Half: Author and reincarnation researcher Stephen Sakellarios will discuss the evidence for reincarnation, his efforts to document a claimed past life, and his controversial research linking that lifetime to famous literary works, including A Christmas Carol and The Raven.",
-            "second_half": "Second Half: Researcher, podcast host, and founder of The Redpill Project, Joshua Reid delves into occult and esoteric traditions, hidden influences on world events, and alternative perspectives on history and human consciousness. He'll also share insights into the forces he believes shape society and humanity's evolving understanding of reality."
-        },
-        {
             "title": "Gratitude \u0026 Luck / The Mandela Effect",
             "date": "2026-11-26",
             "host": "George Noory",
             "guests": "Dr. Joe Gallenberger, Cheryll Jones, Aage Nost",
             "first_half": "First Half: Clinical psychologist and author Dr. Joe Gallenberger will discuss how gratitude can support healing and enhance manifestation. He'll share success stories from his Liquid Luck work, demonstrate practical applications of his techniques, and provide updates on his latest projects.",
-            "second_half": "Second Half: C2C's investigative reporter Cheryll Jones presents her interview with author and researcher Aage Nost. They'll explore the Mandela Effect, in which large numbers of people share mistaken memories of events or details, and examine how the concept of parallel realities may offer an explanation for the phenomenon."
+            "second_half": "Second Half: C2C's investigative reporter Cheryll Jones presents her recorded interview with author and researcher Aage Nost. They'll explore the Mandela Effect, in which large numbers of people share mistaken memories of events or details, and examine how the concept of parallel realities may offer an explanation for the phenomenon."
         },
         {
             "title": "Akashic Records \u0026 Past Lives / Open Lines",
@@ -22,6 +14,61 @@
             "host": "Ryan Wrecker",
             "guests": "Shelley Kaehr, Open Lines",
             "first_half": "Joining guest host  Ryan Wrecker (email), past life regressionist and author Shelley A. Kaehr, Ph.D., will reveal how she first accessed the Akashic Records, which many believe to be a multidimensional source of spiritual insight and soul-level knowledge. She'll share techniques for exploring past lives and uncovering life journeys. Followed by Open Lines in the latter half. Give Ryan a call and discuss whatever's on your mind!"
+        },
+        {
+            "title": "Preparing for the Afterlife / Ancient Myths",
+            "date": "2026-11-28",
+            "host": "Ryan Wrecker",
+            "guests": "Samantha Corfield, Ike Baker",
+            "first_half": "In the first half, guest host Ryan Wrecker (email) speaks with author and spiritual counselor Samantha Corfield about how we can prepare for the afterlife instead of facing a complete unknown. In the second half, author and esoteric scholar Ike Baker will explore how ancient myths served as profound teachings about cosmology, consciousness, and the soul.",
+            "second_half": "6-10pm PT: Art Bell—Somewhere in Time returns to 8/22/96 when, during a night of Open Lines, callers reacted to news about a possible bomb bringing down flight TWA 800."
+        },
+        {
+            "title": "South American UFOs / Deep Search for Meaning",
+            "date": "2026-11-29",
+            "host": "George Noory",
+            "guests": "Indy Pederson, Pat Croce",
+            "first_half": "First Half: Researcher Indy Pederson will discuss his experiences investigating UFO activity in Patagonia and Brazil. He'll share what he uncovered and why he believes humanity is facing a little-understood phenomenon with profound implications.",
+            "second_half": "Second Half: Former president of the Philadelphia 76ers, Pat Croce, will discuss his wild career journey, from transforming the basketball team into a championship contender to pursuing adventures as a black belt, pilot, and shipwreck explorer. He'll also share what led him from his life of material achievement to a deeper search for wisdom and inner peace."
+        },
+        {
+            "title": "Fighting AI Threats / Executor Challenges",
+            "date": "2026-11-30",
+            "host": "George Noory",
+            "guests": "Dan Collins, David Edey",
+            "first_half": "First Half: AI researcher Dan Collins will discuss how artificial intelligence is accelerating cyber threats and reshaping the global technology race. He'll examine AI's impact on cybersecurity, jobs, and society, and will share information on defenses against emerging scams.",
+            "second_half": "Second Half: Certified Executor Advisor David E. Edey will examine the hidden challenges families face after a death, from estate disputes and executor duties to unresolved emotions that often fuel conflict. He'll share steps to ease the burden on loved ones and understand the vital role of an executor during times of crisis."
+        },
+        {
+            "title": "Preserving Our Humanity / Interplanetary Future",
+            "date": "2026-12-01",
+            "host": "George Noory",
+            "guests": "Sean Stone, Michael E. Salla",
+            "first_half": "First Half: Filmmaker and author Sean Stone will discuss the lessons humanity must remember as it enters an era shaped by artificial intelligence and transhumanism. He'll also examine mind-control programs and why he believes we are engaged in a profound spiritual struggle for our future.",
+            "second_half": "Second Half: Exopolitics expert Dr. Michael Salla will explore how the current US administration and leading aerospace entrepreneurs are advancing humanity toward an interplanetary future. He'll also examine how these efforts may help pave the way for disclosure."
+        },
+        {
+            "title": "Human Intelligence Project / Graveyard Tales",
+            "date": "2026-12-02",
+            "host": "George Noory",
+            "guests": "Jim Karol, Tui Snider",
+            "first_half": "First Half: Author and mentalist Jim Karol will discuss The Human Intelligence Project (HIP), a program designed to strengthen memory, focus, attention, observation, and learning through practical, easy-to-use techniques. He'll explain how people can sharpen their mental abilities, work more effectively with artificial intelligence, and develop the skills needed to thrive.",
+            "second_half": "Second Half: Author and cemetery historian Tui Snider will share the stories behind the graveyards featured in her book Buried Dallas–Fort Worth. She'll also explore the secrets of cryptids, catacombs, and cemetery folklore."
+        },
+        {
+            "title": "Power of Music / Deception Detection",
+            "date": "2026-12-03",
+            "host": "George Noory",
+            "guests": "Jonathan Goldman, Abby Ellin",
+            "first_half": "First Half: Author Jonathan Goldman will discuss the power of music to shift frequencies and change our vibrational state. He'll talk about how music can be harnessed to positively affect our body, mind, and spirit, enhancing our health and wellness.",
+            "second_half": "Second Half: Author and journalist Abby Ellin will explore why we believe liars, fall for convincing stories, and sometimes doubt ourselves before doubting those we love. Sharing her own experience with a fiancé who fabricated his life, Ellin will reveal how deception and leading a double life works, and how to trust our instincts again."
+        },
+        {
+            "title": "Mysteries Unravelled / Open Lines",
+            "date": "2026-12-04",
+            "host": "George Noory",
+            "guests": "Lionel Fanthorpe, Open Lines",
+            "first_half": "Author and paranormal researcher Reverend Lionel Fanthorpe will explore some of the intriguing mysteries he's investigated. These cases include Oak Island's mysterious shaft, the abandoned Mary Celeste, the centuries-old Voynich Manuscript, the disappearance of the Flannan Isles lighthouse keepers, and Scotland's legendary Big Grey Man of Ben Macdui. Followed by Open Lines in the latter half—give George a call and discuss whatever's on your mind!"
         }
     ]
 }
